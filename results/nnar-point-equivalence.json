@@ -1,0 +1,56 @@
+[
+  {
+    "p": 1,
+    "repeats": 25,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 1,
+    "repeats": 30,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 1,
+    "repeats": 35,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 2,
+    "repeats": 25,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 2,
+    "repeats": 30,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 2,
+    "repeats": 35,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 3,
+    "repeats": 25,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 3,
+    "repeats": 30,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  },
+  {
+    "p": 3,
+    "repeats": 35,
+    "pi_delta": 0,
+    "horizon_delta": 0
+  }
+]

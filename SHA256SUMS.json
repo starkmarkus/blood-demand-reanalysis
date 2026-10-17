@@ -1,0 +1,23 @@
+{
+  ".gitignore": "1a938e4a40a7a0d682df972414320217c133602277a2ea5e62a9d5e9b54a74cb",
+  "inputs/source-manifest.json": "45bb5b1d7f598f661781be35d582c62b5915595a5c3b1b97a1eece13cbe8fa4c",
+  "README.md": "1a8372a43c4e9121ad4fa9d284203128e69c27d9fe4cf2022d90a7c72074b223",
+  "reference/baseline-errors.json": "04d262a9f1d31c5f7fe13e9a3d33fabf8767ea92a1f21bc269e8a158573d2f3c",
+  "reference/nnar-published-errors.json": "630ecfc105992b5a2e380f8020bdbaa7136d891b2865561d6763eeeb73b49387",
+  "reference/origin-errors.json": "a694e301c2859e84a83d844cd5622da55b0fdac5af421408b19e175dd4a14689",
+  "results/factorial-diagnostics.json": "45733ac077a2727b98bb30bfa829c9d9c6ada33a1e76069f78d6d41b602ae163",
+  "results/factorial-errors.json": "652ed0248d1b7cceb6ef0740a851cf8cbf8d55e52a53a4b8bd6331815c4384b0",
+  "results/factorial-predictions.json": "26d33483387f5a62ed4c7daec9323d6370ad1fe70f5833025c0e9cb1702a1c47",
+  "results/factorial-selections.json": "42b15cb2cf0b8142e4afdb4cc10272a57142dd777b8bcb2aa86c4ea570392785",
+  "results/factorial-summary.json": "3c32a1d8a90b268cb5bbf11547161ead90928dcb655c772a8217632c4d872d55",
+  "results/factorial-verification.json": "b33ab40ff8d6c410ae76ed16ddb18017b867937295c24095cc4a14c83c529cda",
+  "results/nnar-point-equivalence.json": "0a26a56ef295c119aa31209c0be00ac53795931aafbde3d4b6773d1423bc03fd",
+  "results/original-nnar-point-only-runtime.json": "4ab405e8ef43f0c472e3bbdbe447233317de248d31784577b50ea1901a657ccd",
+  "results/python-verification.json": "7d2eaabb88c236164340ce16ec397bf402f9d2d3551052396d9e7bb1da5fafbe",
+  "results/session-info.txt": "980e353827aacc4dae6e2a2e05b8beae03819af5c83947e027df7ddf729b5c9e",
+  "scripts/check_intervals.R": "1b2189ff5791ba1389e514bd3369cb16972e1a276103288aa714d622f1163df9",
+  "scripts/fetch_inputs.py": "fe0feb3e6b78cb6332df6fcdf2ca062d8eadfb891c007dae8423a2f917e70f01",
+  "scripts/plot_results.R": "726cf1cd1f2fc968b57c7b5845ba20573b725a1c53d616e6d96b540b4372fd08",
+  "scripts/run.R": "a8673d0449efcea4e1fedadb629d970c13191f52f72e05c9bd837c14bd22aa31",
+  "scripts/verify_results.py": "ff7ba3608d02bc044d035acf1910f210a21ecd5d5366e4bc092521bde8e7c860"
+}

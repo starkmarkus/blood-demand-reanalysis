@@ -1,0 +1,50 @@
+{
+  "nnar_original_point_only_max_difference": [
+    3.552713678801e-15
+  ],
+  "interval_simulation_omitted": [
+    true
+  ],
+  "protocol_amendment": "README.md",
+  "invariance": [
+    {
+      "origin": 75,
+      "method": "KNN",
+      "max_abs_delta": 0,
+      "same_selection": true
+    },
+    {
+      "origin": 75,
+      "method": "NNAR",
+      "max_abs_delta": 0,
+      "same_selection": true
+    },
+    {
+      "origin": 83,
+      "method": "KNN",
+      "max_abs_delta": 0,
+      "same_selection": true
+    },
+    {
+      "origin": 83,
+      "method": "NNAR",
+      "max_abs_delta": 0,
+      "same_selection": true
+    },
+    {
+      "origin": 91,
+      "method": "KNN",
+      "max_abs_delta": 0,
+      "same_selection": true
+    },
+    {
+      "origin": 91,
+      "method": "NNAR",
+      "max_abs_delta": 0,
+      "same_selection": true
+    }
+  ],
+  "raw_outer_targets_unchanged": [
+    true
+  ]
+}

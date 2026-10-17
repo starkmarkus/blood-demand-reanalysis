@@ -1,0 +1,124 @@
+{
+  "status": "PASS",
+  "metric_rows": 901,
+  "forecast_rows": 9010,
+  "summary_rows": 53,
+  "unique_outer_months": 18,
+  "max_metric_delta": 8.526512829121202e-13,
+  "max_summary_delta": 5.897504706808832e-13,
+  "identical_raw_targets": true,
+  "oracle_bounds_pass": true,
+  "selection_feasibility_pass": true,
+  "nnar_published_comparison": [
+    {
+      "origin": 75,
+      "published_MAPE": 14.15618,
+      "current_MAPE": 14.134110284412,
+      "difference": -0.022069715588001415
+    },
+    {
+      "origin": 76,
+      "published_MAPE": 14.52124,
+      "current_MAPE": 14.521243597466,
+      "difference": 3.5974659997606295e-06
+    },
+    {
+      "origin": 77,
+      "published_MAPE": 30.06379,
+      "current_MAPE": 30.063638743404,
+      "difference": -0.00015125659600201402
+    },
+    {
+      "origin": 78,
+      "published_MAPE": 18.5311,
+      "current_MAPE": 18.531133533925,
+      "difference": 3.353392500216046e-05
+    },
+    {
+      "origin": 79,
+      "published_MAPE": 18.84419,
+      "current_MAPE": 18.843598000241,
+      "difference": -0.0005919997590027037
+    },
+    {
+      "origin": 80,
+      "published_MAPE": 30.15165,
+      "current_MAPE": 30.151513789473,
+      "difference": -0.00013621052699974712
+    },
+    {
+      "origin": 81,
+      "published_MAPE": 17.59428,
+      "current_MAPE": 17.594279003681,
+      "difference": -9.96319002410928e-07
+    },
+    {
+      "origin": 82,
+      "published_MAPE": 14.52992,
+      "current_MAPE": 14.529921673121,
+      "difference": 1.6731209999676366e-06
+    },
+    {
+      "origin": 83,
+      "published_MAPE": 15.52347,
+      "current_MAPE": 15.523462743228,
+      "difference": -7.256771999308853e-06
+    },
+    {
+      "origin": 84,
+      "published_MAPE": 16.44479,
+      "current_MAPE": 16.438741400215,
+      "difference": -0.006048599785000164
+    },
+    {
+      "origin": 85,
+      "published_MAPE": 14.03651,
+      "current_MAPE": 14.101403081155,
+      "difference": 0.06489308115500059
+    },
+    {
+      "origin": 86,
+      "published_MAPE": 17.34065,
+      "current_MAPE": 17.25932433392,
+      "difference": -0.08132566608000147
+    },
+    {
+      "origin": 87,
+      "published_MAPE": 32.26531,
+      "current_MAPE": 32.265299857103,
+      "difference": -1.0142896996967465e-05
+    },
+    {
+      "origin": 88,
+      "published_MAPE": 18.5422,
+      "current_MAPE": 18.542129571949,
+      "difference": -7.042805099999327e-05
+    },
+    {
+      "origin": 89,
+      "published_MAPE": 17.63394,
+      "current_MAPE": 17.633913737098,
+      "difference": -2.6262902000695476e-05
+    },
+    {
+      "origin": 90,
+      "published_MAPE": 19.55863,
+      "current_MAPE": 19.545916618288,
+      "difference": -0.012713381712000427
+    },
+    {
+      "origin": 91,
+      "published_MAPE": 29.48267,
+      "current_MAPE": 29.438225784855,
+      "difference": -0.04444421514499908
+    }
+  ],
+  "nnar_max_published_MAPE_difference": 0.08132566608000147,
+  "nnar_published_median_MAPE": 17.63394,
+  "cross_checks": {
+    "KNN_original_reproduction_max_difference": 0.0,
+    "ARIMA_original_reproduction_max_difference": 0.0,
+    "historical_KNN_previous_pilot_max_difference": 0.0
+  },
+  "scope": "Recalculates metrics from stored forecasts; does not refit models."
+}

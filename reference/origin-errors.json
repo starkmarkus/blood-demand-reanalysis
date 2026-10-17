@@ -1,0 +1,2756 @@
+[
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 14.813435806907,
+    "MAE": 43.734908466644,
+    "RMSE": 55.201256183924
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 18.707663177661,
+    "MAE": 51.678008155026,
+    "RMSE": 63.327221442825
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 18.771413818108,
+    "MAE": 51.831866692636,
+    "RMSE": 63.505807444322
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 16.80472410521,
+    "MAE": 47.555555555556,
+    "RMSE": 57.778311963343
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 28.120859439487,
+    "MAE": 79.359284734991,
+    "RMSE": 97.82740051843
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 21.249569759771,
+    "MAE": 58.015442713654,
+    "RMSE": 69.87829245787
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 27.08101647553,
+    "MAE": 74.943982163834,
+    "RMSE": 88.048311629038
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 14.813435806907,
+    "MAE": 43.734908466644,
+    "RMSE": 55.201256183924
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 16.424903448836,
+    "MAE": 50.565031471548,
+    "RMSE": 61.570032532824
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 21.45365053917,
+    "MAE": 60.378117015715,
+    "RMSE": 73.102540084171
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 14.813435806907,
+    "MAE": 43.734908466644,
+    "RMSE": 55.201256183924
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 30.139972851974,
+    "MAE": 84.790823153918,
+    "RMSE": 101.558111695905
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 20.168216036388,
+    "MAE": 61.001420254744,
+    "RMSE": 73.428271110398
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 14.813435806907,
+    "MAE": 43.734908466644,
+    "RMSE": 55.201256183924
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 18.186066491079,
+    "MAE": 51.344488293668,
+    "RMSE": 64.289542299903
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 27.08101647553,
+    "MAE": 74.943982163834,
+    "RMSE": 88.048311629038
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 14.813435806907,
+    "MAE": 43.734908466644,
+    "RMSE": 55.201256183924
+  },
+  {
+    "origin": 75,
+    "horizon": 18,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 16.424903448836,
+    "MAE": 50.565031471548,
+    "RMSE": 61.570032532824
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 15.291527936716,
+    "MAE": 45.021503459242,
+    "RMSE": 56.55358446716
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 19.178383088322,
+    "MAE": 53.160400631942,
+    "RMSE": 63.98915980978
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 19.252817335462,
+    "MAE": 53.338795109322,
+    "RMSE": 64.191922777573
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 17.667253601733,
+    "MAE": 50.117647058824,
+    "RMSE": 59.140908505226
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 27.713637531287,
+    "MAE": 77.588235294118,
+    "RMSE": 97.981690966761
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 21.059684346168,
+    "MAE": 57.470588235294,
+    "RMSE": 68.899140076404
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 26.051767223591,
+    "MAE": 71.370656079023,
+    "RMSE": 87.046780031751
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 15.291527936716,
+    "MAE": 45.021503459242,
+    "RMSE": 56.55358446716
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 20.739655612773,
+    "MAE": 64.675377086282,
+    "RMSE": 76.941719924936
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 21.856162852272,
+    "MAE": 61.119313441476,
+    "RMSE": 74.3239920698
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 15.291527936716,
+    "MAE": 45.021503459242,
+    "RMSE": 56.55358446716
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 25.894135335601,
+    "MAE": 70.792540073433,
+    "RMSE": 83.154115989229
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 20.681994009806,
+    "MAE": 64.471255011779,
+    "RMSE": 76.748485222424
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 15.291527936716,
+    "MAE": 45.021503459242,
+    "RMSE": 56.55358446716
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 23.945123527293,
+    "MAE": 65.734180662706,
+    "RMSE": 78.341890830315
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 23.993674790855,
+    "MAE": 66.249425399515,
+    "RMSE": 79.382190830061
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 15.291527936716,
+    "MAE": 45.021503459242,
+    "RMSE": 56.55358446716
+  },
+  {
+    "origin": 76,
+    "horizon": 17,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 16.581119885525,
+    "MAE": 50.902201604591,
+    "RMSE": 62.506888945351
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 14.472148958487,
+    "MAE": 40.291174659779,
+    "RMSE": 49.875539870241
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 27.501763515634,
+    "MAE": 73.523149607456,
+    "RMSE": 85.801010188599
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 13.935431806311,
+    "MAE": 41.840817254365,
+    "RMSE": 50.095338574636
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 17.531811155561,
+    "MAE": 47.51420442854,
+    "RMSE": 56.542399807227
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 26.329128870694,
+    "MAE": 78.603693357189,
+    "RMSE": 89.742523855213
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 15.991194597005,
+    "MAE": 52.166193357189,
+    "RMSE": 63.774956358405
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 21.807660269928,
+    "MAE": 58.861205294121,
+    "RMSE": 74.907323422822
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 14.472148958487,
+    "MAE": 40.291174659779,
+    "RMSE": 49.875539870241
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 15.049837646158,
+    "MAE": 44.785214614134,
+    "RMSE": 54.422097656696
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 17.654458839871,
+    "MAE": 48.144300848161,
+    "RMSE": 61.650194816558
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 14.472148958487,
+    "MAE": 40.291174659779,
+    "RMSE": 49.875539870241
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 12.161620662764,
+    "MAE": 36.264149956076,
+    "RMSE": 46.481667353683
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 37.807927506045,
+    "MAE": 103.371625546023,
+    "RMSE": 116.327997824259
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 14.472148958487,
+    "MAE": 40.291174659779,
+    "RMSE": 49.875539870241
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 13.791567020328,
+    "MAE": 40.47392514392,
+    "RMSE": 48.042318370318
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 40.681390309105,
+    "MAE": 113.742448531995,
+    "RMSE": 126.079090376081
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 14.472148958487,
+    "MAE": 40.291174659779,
+    "RMSE": 49.875539870241
+  },
+  {
+    "origin": 77,
+    "horizon": 16,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 19.49394051477,
+    "MAE": 58.976005907448,
+    "RMSE": 73.299018567454
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 15.047113336863,
+    "MAE": 40.929006464353,
+    "RMSE": 53.177460211055
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 20.333781010412,
+    "MAE": 53.704348774039,
+    "RMSE": 65.703711241711
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 20.929725395107,
+    "MAE": 55.113481043574,
+    "RMSE": 67.596911777111
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 16.276345703306,
+    "MAE": 46,
+    "RMSE": 52.296590073669
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 31.663718773994,
+    "MAE": 84.466666666667,
+    "RMSE": 108.343589258125
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 23.228551327053,
+    "MAE": 61.038888888889,
+    "RMSE": 74.004701427229
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 18.954808676693,
+    "MAE": 56.533140387674,
+    "RMSE": 76.242681452915
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 15.047113336863,
+    "MAE": 40.929006464353,
+    "RMSE": 53.177460211055
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 18.044352848481,
+    "MAE": 49.107262448548,
+    "RMSE": 60.631291656449
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 16.914131381173,
+    "MAE": 46.220431550558,
+    "RMSE": 56.096734038006
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 15.047113336863,
+    "MAE": 40.929006464353,
+    "RMSE": 53.177460211055
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 16.683210000469,
+    "MAE": 46.040367248032,
+    "RMSE": 56.072115331652
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 15.047113336863,
+    "MAE": 40.929006464353,
+    "RMSE": 53.177460211055
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 15.047113336863,
+    "MAE": 40.929006464353,
+    "RMSE": 53.177460211055
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 34.886258488402,
+    "MAE": 92.977743123756,
+    "RMSE": 107.91659767461
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 16.480610800872,
+    "MAE": 46.194724505344,
+    "RMSE": 55.515945656423
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 15.047113336863,
+    "MAE": 40.929006464353,
+    "RMSE": 53.177460211055
+  },
+  {
+    "origin": 78,
+    "horizon": 15,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 21.815393995763,
+    "MAE": 59.486137767691,
+    "RMSE": 72.146209737012
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 16.005951673541,
+    "MAE": 43.49536406895,
+    "RMSE": 55.027677527816
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 20.078816290771,
+    "MAE": 53.468703498374,
+    "RMSE": 63.810770726137
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 20.606806044079,
+    "MAE": 54.581039014679,
+    "RMSE": 65.634975542773
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 17.06401404439,
+    "MAE": 48.642857142857,
+    "RMSE": 53.633012221952
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 33.083428779616,
+    "MAE": 88.071428571429,
+    "RMSE": 111.54915636487
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 22.747780280416,
+    "MAE": 59.404761904762,
+    "RMSE": 72.402178122108
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 21.233607213705,
+    "MAE": 58.496605466317,
+    "RMSE": 67.639910681963
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 16.005951673541,
+    "MAE": 43.49536406895,
+    "RMSE": 55.027677527816
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 21.566377216095,
+    "MAE": 59.697905576391,
+    "RMSE": 68.538174320794
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 18.409813213502,
+    "MAE": 51.059778366922,
+    "RMSE": 58.349520530083
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 16.005951673541,
+    "MAE": 43.49536406895,
+    "RMSE": 55.027677527816
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 19.685321886656,
+    "MAE": 55.243947064035,
+    "RMSE": 62.027509997262
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 35.120552561717,
+    "MAE": 92.472635241611,
+    "RMSE": 109.501216629746
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 16.005951673541,
+    "MAE": 43.49536406895,
+    "RMSE": 55.027677527816
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 25.808527460082,
+    "MAE": 72.965496202841,
+    "RMSE": 78.856895758458
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 21.450446255976,
+    "MAE": 56.955525015898,
+    "RMSE": 68.510079319152
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 16.005951673541,
+    "MAE": 43.49536406895,
+    "RMSE": 55.027677527816
+  },
+  {
+    "origin": 79,
+    "horizon": 14,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 22.787914015896,
+    "MAE": 61.928761149759,
+    "RMSE": 74.364876602008
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 17.531176299401,
+    "MAE": 47.7642382281,
+    "RMSE": 56.888639186725
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 25.415228780583,
+    "MAE": 65.533425974344,
+    "RMSE": 79.289726497791
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 25.224073765292,
+    "MAE": 65.045506791808,
+    "RMSE": 78.686974423749
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 33.91475730794,
+    "MAE": 88.846153846154,
+    "RMSE": 101.705078914099
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 33.04437848984,
+    "MAE": 86.384615384615,
+    "RMSE": 110.064666306816
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 22.645573715949,
+    "MAE": 58.365384615385,
+    "RMSE": 71.223004332546
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 19.87120979648,
+    "MAE": 53.150872709277,
+    "RMSE": 61.548605844275
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 17.531176299401,
+    "MAE": 47.7642382281,
+    "RMSE": 56.888639186725
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 41.449828546233,
+    "MAE": 110.739896164539,
+    "RMSE": 128.618866529673
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 34.396611938196,
+    "MAE": 90.077738263917,
+    "RMSE": 103.398216282879
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 17.531176299401,
+    "MAE": 47.7642382281,
+    "RMSE": 56.888639186725
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 30.540386555678,
+    "MAE": 80.138957363878,
+    "RMSE": 96.81069345885
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 37.257052271696,
+    "MAE": 97.421653663927,
+    "RMSE": 113.366536140158
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 17.531176299401,
+    "MAE": 47.7642382281,
+    "RMSE": 56.888639186725
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 18.987477751373,
+    "MAE": 49.907190051989,
+    "RMSE": 60.011082876461
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 21.712118373417,
+    "MAE": 56.019291983814,
+    "RMSE": 68.462428229848
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 17.531176299401,
+    "MAE": 47.7642382281,
+    "RMSE": 56.888639186725
+  },
+  {
+    "origin": 80,
+    "horizon": 13,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 33.236215871933,
+    "MAE": 88.581991439691,
+    "RMSE": 97.464861236184
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 16.304060501428,
+    "MAE": 45.528671960052,
+    "RMSE": 51.501250614622
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 18.398918690844,
+    "MAE": 48.730478702687,
+    "RMSE": 56.664918290511
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 18.930001724371,
+    "MAE": 49.592880852175,
+    "RMSE": 59.078946521434
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 15.644739778389,
+    "MAE": 48,
+    "RMSE": 55.201147331072
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 27.751125566312,
+    "MAE": 73.25,
+    "RMSE": 98.836987003854
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 20.452429836839,
+    "MAE": 52.861111111111,
+    "RMSE": 64.763941013156
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 36.577015474193,
+    "MAE": 95.094101218989,
+    "RMSE": 112.310000615602
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 16.304060501428,
+    "MAE": 45.528671960052,
+    "RMSE": 51.501250614622
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 18.466999197884,
+    "MAE": 48.966450300538,
+    "RMSE": 57.872335444163
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 35.581356561197,
+    "MAE": 92.875446571893,
+    "RMSE": 107.561203730698
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 16.304060501428,
+    "MAE": 45.528671960052,
+    "RMSE": 51.501250614622
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 27.435471947237,
+    "MAE": 71.083430226425,
+    "RMSE": 83.961528269143
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 36.577015474193,
+    "MAE": 95.094101218989,
+    "RMSE": 112.310000615602
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 16.304060501428,
+    "MAE": 45.528671960052,
+    "RMSE": 51.501250614622
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 18.466999197884,
+    "MAE": 48.966450300538,
+    "RMSE": 57.872335444163
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 23.136802688631,
+    "MAE": 59.300088237235,
+    "RMSE": 73.513160408247
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 16.304060501428,
+    "MAE": 45.528671960052,
+    "RMSE": 51.501250614622
+  },
+  {
+    "origin": 81,
+    "horizon": 12,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 16.240251324665,
+    "MAE": 45.524271189813,
+    "RMSE": 51.862412091168
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 11.944806826342,
+    "MAE": 37.38139480105,
+    "RMSE": 47.776015086243
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 13.754770513188,
+    "MAE": 41.100264201707,
+    "RMSE": 47.386607569144
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 14.308903704376,
+    "MAE": 41.765717645816,
+    "RMSE": 46.993485036793
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 22.795191708943,
+    "MAE": 75.090909090909,
+    "RMSE": 89.798764923679
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 20.942757726325,
+    "MAE": 58.727272727273,
+    "RMSE": 75.640297100517
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 16.255310082317,
+    "MAE": 45.515151515152,
+    "RMSE": 51.083018190733
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 13.045338852635,
+    "MAE": 39.89270040316,
+    "RMSE": 48.247812429152
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 11.944806826342,
+    "MAE": 37.38139480105,
+    "RMSE": 47.776015086243
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 13.076715783044,
+    "MAE": 37.981175632039,
+    "RMSE": 45.644447271834
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 31.310737794768,
+    "MAE": 84.188146991293,
+    "RMSE": 97.554852439991
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 11.944806826342,
+    "MAE": 37.38139480105,
+    "RMSE": 47.776015086243
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 25.730892412345,
+    "MAE": 68.149417691458,
+    "RMSE": 82.432398362783
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 32.189077500208,
+    "MAE": 86.230234390094,
+    "RMSE": 101.921971282429
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 11.944806826342,
+    "MAE": 37.38139480105,
+    "RMSE": 47.776015086243
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 31.049206517276,
+    "MAE": 82.848075981816,
+    "RMSE": 98.124003432798
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 33.419064207517,
+    "MAE": 89.306155909878,
+    "RMSE": 106.344472338754
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 11.944806826342,
+    "MAE": 37.38139480105,
+    "RMSE": 47.776015086243
+  },
+  {
+    "origin": 82,
+    "horizon": 11,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 18.568909738848,
+    "MAE": 51.13791035224,
+    "RMSE": 59.776556554821
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 12.411718474655,
+    "MAE": 37.146329898507,
+    "RMSE": 43.121268572064
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 14.349970240906,
+    "MAE": 44.31390971865,
+    "RMSE": 51.068543726684
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 14.337158186944,
+    "MAE": 44.211143805082,
+    "RMSE": 50.929516548824
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 17.887368718654,
+    "MAE": 60,
+    "RMSE": 72.928732335068
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 19.479721245993,
+    "MAE": 55.6,
+    "RMSE": 74.051333546399
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 15.037912845159,
+    "MAE": 43.8,
+    "RMSE": 49.030206109205
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 12.423280949021,
+    "MAE": 37.867124426865,
+    "RMSE": 44.790198391415
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 12.411718474655,
+    "MAE": 37.146329898507,
+    "RMSE": 43.121268572064
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 13.75980992247,
+    "MAE": 40.152172232692,
+    "RMSE": 47.190049485529
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 18.091107487215,
+    "MAE": 50.646754848265,
+    "RMSE": 62.023136500368
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 12.411718474655,
+    "MAE": 37.146329898507,
+    "RMSE": 43.121268572064
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 17.036840308326,
+    "MAE": 47.435627140824,
+    "RMSE": 56.772214069015
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 14.13487522381,
+    "MAE": 41.640154265767,
+    "RMSE": 49.360885762769
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 12.411718474655,
+    "MAE": 37.146329898507,
+    "RMSE": 43.121268572064
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 13.427320388487,
+    "MAE": 39.568951963737,
+    "RMSE": 49.11542853958
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 14.13487522381,
+    "MAE": 41.640154265767,
+    "RMSE": 49.360885762769
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 12.411718474655,
+    "MAE": 37.146329898507,
+    "RMSE": 43.121268572064
+  },
+  {
+    "origin": 83,
+    "horizon": 10,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 12.546931605415,
+    "MAE": 37.711095668838,
+    "RMSE": 43.044366345618
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 12.034906166499,
+    "MAE": 36.637275107972,
+    "RMSE": 46.993008839451
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 15.848467868016,
+    "MAE": 50.722357469235,
+    "RMSE": 58.296326165097
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 15.806741628485,
+    "MAE": 50.55131910369,
+    "RMSE": 58.16036721638
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 19.504958380574,
+    "MAE": 65.333333333333,
+    "RMSE": 75.325958341066
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 21.556988748271,
+    "MAE": 61.555555555556,
+    "RMSE": 78.054112284007
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 14.390387194285,
+    "MAE": 42.777777777778,
+    "RMSE": 48.564962221292
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 14.645982915903,
+    "MAE": 43.223255580203,
+    "RMSE": 51.657142498658
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 12.034906166499,
+    "MAE": 36.637275107972,
+    "RMSE": 46.993008839451
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 14.66241671866,
+    "MAE": 43.167642225663,
+    "RMSE": 51.552593258316
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 14.982222776204,
+    "MAE": 44.931325615766,
+    "RMSE": 48.678008243449
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 12.034906166499,
+    "MAE": 36.637275107972,
+    "RMSE": 46.993008839451
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 15.261439252851,
+    "MAE": 45.812927580672,
+    "RMSE": 49.303575715808
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 15.064678178343,
+    "MAE": 45.541911667197,
+    "RMSE": 49.044700570329
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 12.034906166499,
+    "MAE": 36.637275107972,
+    "RMSE": 46.993008839451
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 15.100103674913,
+    "MAE": 45.609582988945,
+    "RMSE": 49.120410547931
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 14.088209952784,
+    "MAE": 41.730748387764,
+    "RMSE": 51.131414644232
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 12.034906166499,
+    "MAE": 36.637275107972,
+    "RMSE": 46.993008839451
+  },
+  {
+    "origin": 84,
+    "horizon": 9,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 14.840467144694,
+    "MAE": 43.674953803417,
+    "RMSE": 49.063524786255
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 11.421057166212,
+    "MAE": 33.663962373554,
+    "RMSE": 43.067444219191
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 14.135467729973,
+    "MAE": 39.907117341678,
+    "RMSE": 47.607682748243
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 14.145646539537,
+    "MAE": 39.854234764358,
+    "RMSE": 47.657637822627
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 20.158260998314,
+    "MAE": 53.875,
+    "RMSE": 67.374884044427
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 22.027036070618,
+    "MAE": 61.375,
+    "RMSE": 79.736284086983
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 14.813157009537,
+    "MAE": 42.375,
+    "RMSE": 49.197306836858
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 27.317733137281,
+    "MAE": 74.559282298895,
+    "RMSE": 86.483332192719
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 11.421057166212,
+    "MAE": 33.663962373554,
+    "RMSE": 43.067444219191
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 16.553929531645,
+    "MAE": 43.715429202626,
+    "RMSE": 58.730977554235
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 17.04265898312,
+    "MAE": 45.342432998964,
+    "RMSE": 58.988039250095
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 11.421057166212,
+    "MAE": 33.663962373554,
+    "RMSE": 43.067444219191
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 14.478128325617,
+    "MAE": 42.280312481959,
+    "RMSE": 46.461941540316
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 14.701456996703,
+    "MAE": 43.282727548674,
+    "RMSE": 46.906191924062
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 11.421057166212,
+    "MAE": 33.663962373554,
+    "RMSE": 43.067444219191
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 14.69956536402,
+    "MAE": 43.267072403755,
+    "RMSE": 46.886432234212
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 13.474559259551,
+    "MAE": 38.540735578084,
+    "RMSE": 48.743098395553
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 11.421057166212,
+    "MAE": 33.663962373554,
+    "RMSE": 43.067444219191
+  },
+  {
+    "origin": 85,
+    "horizon": 8,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 15.797645300527,
+    "MAE": 45.573046946444,
+    "RMSE": 54.108187226136
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 12.547296392254,
+    "MAE": 36.96892647328,
+    "RMSE": 48.258744550545
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 16.037687392492,
+    "MAE": 44.621610737932,
+    "RMSE": 51.217218893177
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 16.056974846876,
+    "MAE": 44.650205193824,
+    "RMSE": 51.269348574461
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 18.783265520215,
+    "MAE": 50.142857142857,
+    "RMSE": 61.517709413051
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 24.074854410377,
+    "MAE": 66.428571428571,
+    "RMSE": 84.673321823178
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 16.091923678027,
+    "MAE": 45.202380952381,
+    "RMSE": 52.215964459583
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 16.159408659666,
+    "MAE": 45.209234037174,
+    "RMSE": 50.466844669437
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 12.547296392254,
+    "MAE": 36.96892647328,
+    "RMSE": 48.258744550545
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 18.545171198633,
+    "MAE": 48.856974325592,
+    "RMSE": 62.283987545443
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 15.099735303465,
+    "MAE": 43.288906172547,
+    "RMSE": 47.616817020515
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 12.547296392254,
+    "MAE": 36.96892647328,
+    "RMSE": 48.258744550545
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 15.251456122835,
+    "MAE": 43.804267538088,
+    "RMSE": 47.771669679767
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 14.876940492097,
+    "MAE": 42.96040503451,
+    "RMSE": 47.09826742073
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 12.547296392254,
+    "MAE": 36.96892647328,
+    "RMSE": 48.258744550545
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 14.124944723259,
+    "MAE": 41.100825803422,
+    "RMSE": 45.686014817944
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 14.918727065861,
+    "MAE": 42.421554946381,
+    "RMSE": 51.9308970853
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 12.547296392254,
+    "MAE": 36.96892647328,
+    "RMSE": 48.258744550545
+  },
+  {
+    "origin": 86,
+    "horizon": 7,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 19.365433770338,
+    "MAE": 51.161558732979,
+    "RMSE": 64.7662372185
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 10.602617518695,
+    "MAE": 27.632577653317,
+    "RMSE": 35.720580444048
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 19.840647493247,
+    "MAE": 50.927864946898,
+    "RMSE": 63.07885607797
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 20.939334638263,
+    "MAE": 53.929793408221,
+    "RMSE": 65.946238399482
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 35.361782630663,
+    "MAE": 94.166666666667,
+    "RMSE": 103.004045228007
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 25.656774589884,
+    "MAE": 68.166666666667,
+    "RMSE": 88.554126574278
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 16.524102085192,
+    "MAE": 42.861111111111,
+    "RMSE": 51.551282449831
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 15.183907859556,
+    "MAE": 40.956673997496,
+    "RMSE": 45.412978235769
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 10.602617518695,
+    "MAE": 27.632577653317,
+    "RMSE": 35.720580444048
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 43.36458700355,
+    "MAE": 116.263469610364,
+    "RMSE": 129.501005743675
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 15.183907859556,
+    "MAE": 40.956673997496,
+    "RMSE": 45.412978235769
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 10.602617518695,
+    "MAE": 27.632577653317,
+    "RMSE": 35.720580444048
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 43.36458700355,
+    "MAE": 116.263469610364,
+    "RMSE": 129.501005743675
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 15.594457992694,
+    "MAE": 41.113634118213,
+    "RMSE": 48.730718844358
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 10.602617518695,
+    "MAE": 27.632577653317,
+    "RMSE": 35.720580444048
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 14.707913027344,
+    "MAE": 40.071675602915,
+    "RMSE": 43.8692534603
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 12.670122372015,
+    "MAE": 34.094085182493,
+    "RMSE": 38.964951610595
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 10.602617518695,
+    "MAE": 27.632577653317,
+    "RMSE": 35.720580444048
+  },
+  {
+    "origin": 87,
+    "horizon": 6,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 20.012340638796,
+    "MAE": 50.825128214397,
+    "RMSE": 64.930681320101
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 18.283671103804,
+    "MAE": 47.652201894226,
+    "RMSE": 53.61965262564
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 18.256222485193,
+    "MAE": 47.603987565712,
+    "RMSE": 53.503268745311
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 15.888095271545,
+    "MAE": 43,
+    "RMSE": 46.816663700012
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 28.915219808864,
+    "MAE": 76.2,
+    "RMSE": 96.194594442723
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 18.138602918172,
+    "MAE": 46.75,
+    "RMSE": 54.367844356752
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 13.923082773939,
+    "MAE": 36.531282522705,
+    "RMSE": 43.30305446412
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 19.229879687601,
+    "MAE": 50.428180879231,
+    "RMSE": 56.072432603814
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 17.157616423506,
+    "MAE": 46.620247563491,
+    "RMSE": 49.20973012125
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 17.132172715245,
+    "MAE": 46.559845183358,
+    "RMSE": 49.121827589699
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 18.089075319216,
+    "MAE": 46.805970737072,
+    "RMSE": 53.601266894886
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 18.092648257556,
+    "MAE": 46.829294404944,
+    "RMSE": 53.587904077464
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 16.577566758227,
+    "MAE": 44.182838408503,
+    "RMSE": 48.250657806291
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "horizon": 5,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 14.276707208068,
+    "MAE": 38.175315553042,
+    "RMSE": 42.399086057817
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 15.870282294046,
+    "MAE": 46.272399641454,
+    "RMSE": 51.391233162715
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 15.875066437665,
+    "MAE": 46.309800934772,
+    "RMSE": 51.468099892202
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 18.975706392839,
+    "MAE": 61.25,
+    "RMSE": 71.552428330561
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 17.41974492569,
+    "MAE": 49.75,
+    "RMSE": 57.321461949256
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 14.267767795412,
+    "MAE": 39.75,
+    "RMSE": 44.34860325998
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 16.678720681397,
+    "MAE": 44.360665626663,
+    "RMSE": 53.114051284894
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 16.691039796582,
+    "MAE": 44.396174946871,
+    "RMSE": 53.131157792863
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 19.735881123924,
+    "MAE": 55.560156016439,
+    "RMSE": 58.744506901808
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 14.044373044101,
+    "MAE": 40.286876065128,
+    "RMSE": 41.625256516472
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 19.256400340047,
+    "MAE": 54.2723367975,
+    "RMSE": 58.726490089945
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 18.762071290078,
+    "MAE": 54.140691750964,
+    "RMSE": 55.245298301291
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "horizon": 4,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 18.683201663739,
+    "MAE": 53.039936991888,
+    "RMSE": 55.020140029894
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 9.296212677194,
+    "MAE": 24.645032321767,
+    "RMSE": 26.306254778176
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 17.738660069129,
+    "MAE": 45.947900962644,
+    "RMSE": 52.640341522641
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 17.749577147064,
+    "MAE": 45.969540128446,
+    "RMSE": 52.677359570115
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 20.873143081583,
+    "MAE": 53,
+    "RMSE": 63.542636604619
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 21.117892832646,
+    "MAE": 59.333333333333,
+    "RMSE": 65.06919393999
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 16.355936713673,
+    "MAE": 43.777777777778,
+    "RMSE": 48.855796881116
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 31.936977968549,
+    "MAE": 81.994070333088,
+    "RMSE": 95.044944784536
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 9.296212677194,
+    "MAE": 24.645032321767,
+    "RMSE": 26.306254778176
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 31.946852712408,
+    "MAE": 82.022987674518,
+    "RMSE": 95.066075983827
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 17.176960717639,
+    "MAE": 44.428907957003,
+    "RMSE": 50.381199629235
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 9.296212677194,
+    "MAE": 24.645032321767,
+    "RMSE": 26.306254778176
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 17.234503528811,
+    "MAE": 44.611152662696,
+    "RMSE": 50.494456376612
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 16.354263987471,
+    "MAE": 42.654610098192,
+    "RMSE": 47.302465145417
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 9.296212677194,
+    "MAE": 24.645032321767,
+    "RMSE": 26.306254778176
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 16.332911805356,
+    "MAE": 42.599937180581,
+    "RMSE": 47.237008958399
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 15.274846995116,
+    "MAE": 38.503779473883,
+    "RMSE": 47.733093138586
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 9.296212677194,
+    "MAE": 24.645032321767,
+    "RMSE": 26.306254778176
+  },
+  {
+    "origin": 90,
+    "horizon": 3,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 15.234007509474,
+    "MAE": 38.381933403498,
+    "RMSE": 47.644184422974
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "A_KNN",
+    "rule": "original",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "A_ARIMA",
+    "rule": "original",
+    "MAPE": 27.656894935843,
+    "MAE": 68.617098462059,
+    "RMSE": 72.543330512475
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_ARIMA",
+    "rule": "none",
+    "MAPE": 27.712205975024,
+    "MAE": 68.759376180133,
+    "RMSE": 72.677153666053
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_Naive",
+    "rule": "none",
+    "MAPE": 34.738437528137,
+    "MAE": 86.5,
+    "RMSE": 90.468226466534
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_SeasonalNaive",
+    "rule": "none",
+    "MAPE": 26.185509769201,
+    "MAE": 70,
+    "RMSE": 75.026661927611
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_Mean12",
+    "rule": "none",
+    "MAPE": 19.745865722261,
+    "MAE": 48,
+    "RMSE": 54.829280498653
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "B_KNN",
+    "rule": "matched",
+    "MAPE": 25.329391638405,
+    "MAE": 60.5,
+    "RMSE": 75.103262246057
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "Oracle_same_grid",
+    "rule": "matched",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_KNN",
+    "rule": "matched",
+    "MAPE": 55.131260287095,
+    "MAE": 138.629271762823,
+    "RMSE": 141.595953566008
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "B_KNN",
+    "rule": "6",
+    "MAPE": 30.143819866478,
+    "MAE": 74.930542676016,
+    "RMSE": 78.758498330644
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "Oracle_same_grid",
+    "rule": "6",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_KNN",
+    "rule": "6",
+    "MAPE": 31.436932362108,
+    "MAE": 78.35409311943,
+    "RMSE": 81.730074203274
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "B_KNN",
+    "rule": "12",
+    "MAPE": 21.954321580272,
+    "MAE": 55.065237720054,
+    "RMSE": 56.544412107363
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "Oracle_same_grid",
+    "rule": "12",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_KNN",
+    "rule": "12",
+    "MAPE": 23.184100763784,
+    "MAE": 57.754464060506,
+    "RMSE": 60.329945243702
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "B_KNN",
+    "rule": "18",
+    "MAPE": 22.759152129134,
+    "MAE": 57.225879672978,
+    "RMSE": 58.456059711176
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "Oracle_same_grid",
+    "rule": "18",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "horizon": 2,
+    "method": "C_KNN",
+    "rule": "18",
+    "MAPE": 21.756231846835,
+    "MAE": 54.285900063027,
+    "RMSE": 56.455130002094
+  }
+]

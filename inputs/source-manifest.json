@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/twumasiclement/TimeSeries-Forecasting",
+  "commit": "479461f4fa1591569d529579b58d0d4215dc2cf5",
+  "files": [
+    {
+      "name": "Blood_data_Tema.csv",
+      "sha256": "e6d7e2c3d37100f9b3c052d1ae0f58aa808edbfc3eb87e56cd0c8398f74c3c2b",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/Blood_data_Tema.csv"
+    },
+    {
+      "name": "NNAR-tuning-script.R",
+      "sha256": "01a39d37c77e0cfd7ef2ffabda0a5d8d32ccddcc154d34fdcb643098be8f7bdd",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/NNAR-tuning-script.R"
+    },
+    {
+      "name": "ro-eval-NNAR-script.R",
+      "sha256": "e6af2a2d9d81b995a0c9bc14ac032afbf307aa54ffbfb1b39ad266dc199b2653",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/ro-eval-NNAR-script.R"
+    },
+    {
+      "name": "KNN-k-lag-best-script.R",
+      "sha256": "57cb19d1d7367021712bcdaa629aebd854a78503ad4cceb27b12c9f2fa910c8e",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/KNN-k-lag-best-script.R"
+    },
+    {
+      "name": "ro-eval-KNN-script.R",
+      "sha256": "a868db6d507e5dd305b9351d5b5321591ff5200fa646af90af0c57026d0eda92",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/ro-eval-KNN-script.R"
+    },
+    {
+      "name": "Main_Script_IJF.r",
+      "sha256": "1f5a359859c9c08968e4ddf1a880ca95804408aba72bd57b3a9b33ec3fe3f630",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/Main_Script_IJF.r"
+    }
+  ]
+}
