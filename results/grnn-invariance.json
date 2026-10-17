@@ -1,0 +1,38 @@
+[
+  {
+    "origin": 75,
+    "strategy": "MIMO",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 75,
+    "strategy": "recursive",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 83,
+    "strategy": "MIMO",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 83,
+    "strategy": "recursive",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 91,
+    "strategy": "MIMO",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 91,
+    "strategy": "recursive",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  }
+]

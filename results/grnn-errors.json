@@ -1,0 +1,1379 @@
+[
+  {
+    "origin": 75,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 17.366327560939,
+    "MAE": 49.106849521971,
+    "RMSE": 59.961032424265
+  },
+  {
+    "origin": 75,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 18.796170308888,
+    "MAE": 52.426822259821,
+    "RMSE": 64.95893440885
+  },
+  {
+    "origin": 75,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 20.020408705481,
+    "MAE": 55.189237153095,
+    "RMSE": 68.561969164167
+  },
+  {
+    "origin": 75,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 16.234660213829,
+    "MAE": 47.094317937546,
+    "RMSE": 56.129793621868
+  },
+  {
+    "origin": 75,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 17.707212635457,
+    "MAE": 49.341908077534,
+    "RMSE": 60.496036410313
+  },
+  {
+    "origin": 75,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 18.756810680376,
+    "MAE": 52.326429330419,
+    "RMSE": 64.846735598554
+  },
+  {
+    "origin": 75,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 19.800088867649,
+    "MAE": 54.78291546261,
+    "RMSE": 67.664537219984
+  },
+  {
+    "origin": 75,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 16.198458289819,
+    "MAE": 47.030154278351,
+    "RMSE": 56.047737971029
+  },
+  {
+    "origin": 75,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 17.632560045524,
+    "MAE": 49.180939483497,
+    "RMSE": 60.282549819295
+  },
+  {
+    "origin": 76,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 19.12691016156,
+    "MAE": 53.150423799117,
+    "RMSE": 64.386933871771
+  },
+  {
+    "origin": 76,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 20.452177138895,
+    "MAE": 56.595459454526,
+    "RMSE": 68.409690091984
+  },
+  {
+    "origin": 76,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 21.111147348633,
+    "MAE": 58.168763489128,
+    "RMSE": 70.189953541754
+  },
+  {
+    "origin": 76,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 18.744959000903,
+    "MAE": 52.17697535787,
+    "RMSE": 62.615044868291
+  },
+  {
+    "origin": 76,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 19.12691016156,
+    "MAE": 53.150423799117,
+    "RMSE": 64.386933871771
+  },
+  {
+    "origin": 76,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 20.406563181372,
+    "MAE": 56.483907444193,
+    "RMSE": 68.270291747869
+  },
+  {
+    "origin": 76,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 20.406563181372,
+    "MAE": 56.483907444193,
+    "RMSE": 68.270291747869
+  },
+  {
+    "origin": 76,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 18.690450458602,
+    "MAE": 52.061853065271,
+    "RMSE": 62.443326039771
+  },
+  {
+    "origin": 76,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 18.690450458602,
+    "MAE": 52.061853065271,
+    "RMSE": 62.443326039771
+  },
+  {
+    "origin": 77,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 20.04869726314,
+    "MAE": 53.509180205065,
+    "RMSE": 64.501916317388
+  },
+  {
+    "origin": 77,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 20.584265986958,
+    "MAE": 54.665514665339,
+    "RMSE": 66.772555435788
+  },
+  {
+    "origin": 77,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 20.763452487815,
+    "MAE": 55.181924423509,
+    "RMSE": 67.248009147085
+  },
+  {
+    "origin": 77,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 19.306696322722,
+    "MAE": 51.062153430609,
+    "RMSE": 62.875635893913
+  },
+  {
+    "origin": 77,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 19.981132051035,
+    "MAE": 53.091359865171,
+    "RMSE": 64.88673276467
+  },
+  {
+    "origin": 77,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 14.386378033073,
+    "MAE": 41.496091757916,
+    "RMSE": 49.143982023086
+  },
+  {
+    "origin": 77,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 14.50693604386,
+    "MAE": 41.857482271933,
+    "RMSE": 49.213168544813
+  },
+  {
+    "origin": 77,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 14.21822771789,
+    "MAE": 41.630337873579,
+    "RMSE": 49.055819669167
+  },
+  {
+    "origin": 77,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 14.21822771789,
+    "MAE": 41.630337873579,
+    "RMSE": 49.055819669167
+  },
+  {
+    "origin": 78,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 19.591284546413,
+    "MAE": 51.952944626517,
+    "RMSE": 63.26719968708
+  },
+  {
+    "origin": 78,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 20.122785337062,
+    "MAE": 53.443691039004,
+    "RMSE": 64.996662099428
+  },
+  {
+    "origin": 78,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 20.122785337062,
+    "MAE": 53.443691039004,
+    "RMSE": 64.996662099428
+  },
+  {
+    "origin": 78,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 19.591284546413,
+    "MAE": 51.952944626517,
+    "RMSE": 63.26719968708
+  },
+  {
+    "origin": 78,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.61834551289,
+    "MAE": 54.939801586545,
+    "RMSE": 65.598210071538
+  },
+  {
+    "origin": 78,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 19.256243541194,
+    "MAE": 51.268327872927,
+    "RMSE": 62.626600590751
+  },
+  {
+    "origin": 78,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 24.171620128897,
+    "MAE": 63.782532250434,
+    "RMSE": 76.193826691702
+  },
+  {
+    "origin": 78,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 19.014500451298,
+    "MAE": 50.72908721977,
+    "RMSE": 61.17383041484
+  },
+  {
+    "origin": 78,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 19.014500451298,
+    "MAE": 50.72908721977,
+    "RMSE": 61.17383041484
+  },
+  {
+    "origin": 79,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 20.392174792815,
+    "MAE": 54.035652012724,
+    "RMSE": 64.934606322354
+  },
+  {
+    "origin": 79,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 20.988581841669,
+    "MAE": 55.665953313146,
+    "RMSE": 66.870822095261
+  },
+  {
+    "origin": 79,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 22.500051083362,
+    "MAE": 59.274578173804,
+    "RMSE": 71.037777410205
+  },
+  {
+    "origin": 79,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 20.225037972494,
+    "MAE": 53.024998474516,
+    "RMSE": 64.641592212999
+  },
+  {
+    "origin": 79,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.225037972494,
+    "MAE": 53.024998474516,
+    "RMSE": 64.641592212999
+  },
+  {
+    "origin": 79,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 20.352135436957,
+    "MAE": 54.239961691746,
+    "RMSE": 64.760072796035
+  },
+  {
+    "origin": 79,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 20.352135436957,
+    "MAE": 54.239961691746,
+    "RMSE": 64.760072796035
+  },
+  {
+    "origin": 79,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 19.663918885292,
+    "MAE": 51.860407155553,
+    "RMSE": 62.61449567703
+  },
+  {
+    "origin": 79,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 19.871345112635,
+    "MAE": 52.98196836579,
+    "RMSE": 62.994552947789
+  },
+  {
+    "origin": 80,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 21.692516124511,
+    "MAE": 55.959603282408,
+    "RMSE": 68.538306833612
+  },
+  {
+    "origin": 80,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 21.648528260067,
+    "MAE": 56.085790538279,
+    "RMSE": 68.112608826443
+  },
+  {
+    "origin": 80,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 27.719109936939,
+    "MAE": 71.950689050375,
+    "RMSE": 84.695494864326
+  },
+  {
+    "origin": 80,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 21.482102573332,
+    "MAE": 55.58963786575,
+    "RMSE": 67.474090413561
+  },
+  {
+    "origin": 80,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 21.482102573332,
+    "MAE": 55.58963786575,
+    "RMSE": 67.474090413561
+  },
+  {
+    "origin": 80,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 20.969699422119,
+    "MAE": 54.558778362716,
+    "RMSE": 65.675558249243
+  },
+  {
+    "origin": 80,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 20.969699422119,
+    "MAE": 54.558778362716,
+    "RMSE": 65.675558249243
+  },
+  {
+    "origin": 80,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 20.703673095729,
+    "MAE": 53.719373435776,
+    "RMSE": 65.08664128531
+  },
+  {
+    "origin": 80,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.959753320428,
+    "MAE": 54.233356607938,
+    "RMSE": 66.190980371139
+  },
+  {
+    "origin": 81,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 20.120517339585,
+    "MAE": 52.005167187382,
+    "RMSE": 63.701453421414
+  },
+  {
+    "origin": 81,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 19.858112182152,
+    "MAE": 51.783963762461,
+    "RMSE": 62.462560857027
+  },
+  {
+    "origin": 81,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 21.834712721357,
+    "MAE": 56.269901166911,
+    "RMSE": 69.275904043666
+  },
+  {
+    "origin": 81,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 20.120517339585,
+    "MAE": 52.005167187382,
+    "RMSE": 63.701453421414
+  },
+  {
+    "origin": 81,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.120517339585,
+    "MAE": 52.005167187382,
+    "RMSE": 63.701453421414
+  },
+  {
+    "origin": 81,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 19.538470565498,
+    "MAE": 51.177092455472,
+    "RMSE": 61.246972292169
+  },
+  {
+    "origin": 81,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 21.276917988065,
+    "MAE": 54.908639137684,
+    "RMSE": 67.334251028305
+  },
+  {
+    "origin": 81,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 19.68894645786,
+    "MAE": 51.136399133253,
+    "RMSE": 62.019090990718
+  },
+  {
+    "origin": 81,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.323880652496,
+    "MAE": 52.575027883873,
+    "RMSE": 64.428946880438
+  },
+  {
+    "origin": 82,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 15.217365077711,
+    "MAE": 41.716641241421,
+    "RMSE": 50.638699000741
+  },
+  {
+    "origin": 82,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 16.096432082092,
+    "MAE": 44.262465358031,
+    "RMSE": 51.431151746586
+  },
+  {
+    "origin": 82,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 16.096432082092,
+    "MAE": 44.262465358031,
+    "RMSE": 51.431151746586
+  },
+  {
+    "origin": 82,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 15.217365077711,
+    "MAE": 41.716641241421,
+    "RMSE": 50.638699000741
+  },
+  {
+    "origin": 82,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 15.217365077711,
+    "MAE": 41.716641241421,
+    "RMSE": 50.638699000741
+  },
+  {
+    "origin": 82,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 15.887680825401,
+    "MAE": 43.710454921539,
+    "RMSE": 50.667280938507
+  },
+  {
+    "origin": 82,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 15.887680825401,
+    "MAE": 43.710454921539,
+    "RMSE": 50.667280938507
+  },
+  {
+    "origin": 82,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 15.265029393439,
+    "MAE": 41.915674855653,
+    "RMSE": 50.295028625044
+  },
+  {
+    "origin": 82,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 15.265029393439,
+    "MAE": 41.915674855653,
+    "RMSE": 50.295028625044
+  },
+  {
+    "origin": 83,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 16.387413511405,
+    "MAE": 44.666146953281,
+    "RMSE": 55.067698126869
+  },
+  {
+    "origin": 83,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 14.09374007353,
+    "MAE": 40.740139891736,
+    "RMSE": 46.048352924832
+  },
+  {
+    "origin": 83,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 14.09374007353,
+    "MAE": 40.740139891736,
+    "RMSE": 46.048352924832
+  },
+  {
+    "origin": 83,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 15.416433429163,
+    "MAE": 43.063768356791,
+    "RMSE": 51.659169189177
+  },
+  {
+    "origin": 83,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 15.56847388796,
+    "MAE": 44.311122914976,
+    "RMSE": 50.376599479032
+  },
+  {
+    "origin": 83,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 13.964159497719,
+    "MAE": 40.438754777927,
+    "RMSE": 45.713852764009
+  },
+  {
+    "origin": 83,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 13.964159497719,
+    "MAE": 40.438754777927,
+    "RMSE": 45.713852764009
+  },
+  {
+    "origin": 83,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 15.427496454558,
+    "MAE": 43.024585273031,
+    "RMSE": 51.802449390429
+  },
+  {
+    "origin": 83,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 16.403107001701,
+    "MAE": 44.690505040712,
+    "RMSE": 55.134480732538
+  },
+  {
+    "origin": 84,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 14.414198609412,
+    "MAE": 42.12274385835,
+    "RMSE": 48.268567461291
+  },
+  {
+    "origin": 84,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 13.440692562244,
+    "MAE": 40.066942821813,
+    "RMSE": 45.953928173087
+  },
+  {
+    "origin": 84,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 14.874923847675,
+    "MAE": 43.382808602914,
+    "RMSE": 51.437601552724
+  },
+  {
+    "origin": 84,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 14.414198609412,
+    "MAE": 42.12274385835,
+    "RMSE": 48.268567461291
+  },
+  {
+    "origin": 84,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 16.566869375663,
+    "MAE": 47.654442071804,
+    "RMSE": 55.990874072683
+  },
+  {
+    "origin": 84,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 13.42247331128,
+    "MAE": 39.937994143095,
+    "RMSE": 45.825564102629
+  },
+  {
+    "origin": 84,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 15.259981637245,
+    "MAE": 42.956717925674,
+    "RMSE": 51.597102887679
+  },
+  {
+    "origin": 84,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 14.512822792871,
+    "MAE": 42.317587526421,
+    "RMSE": 48.574026755635
+  },
+  {
+    "origin": 84,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 15.894422750209,
+    "MAE": 44.078316332284,
+    "RMSE": 54.582737086758
+  },
+  {
+    "origin": 85,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 16.71128567581,
+    "MAE": 45.309836685369,
+    "RMSE": 57.887489961279
+  },
+  {
+    "origin": 85,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 15.183474514996,
+    "MAE": 42.048047329853,
+    "RMSE": 51.007988726235
+  },
+  {
+    "origin": 85,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 17.263478496982,
+    "MAE": 46.000469718761,
+    "RMSE": 59.768748145327
+  },
+  {
+    "origin": 85,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 15.742735927254,
+    "MAE": 42.275743348961,
+    "RMSE": 54.609890048937
+  },
+  {
+    "origin": 85,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 15.985564727651,
+    "MAE": 45.065366170228,
+    "RMSE": 52.385953699976
+  },
+  {
+    "origin": 85,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 15.211398874323,
+    "MAE": 42.131593967116,
+    "RMSE": 51.072902053589
+  },
+  {
+    "origin": 85,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 17.310347438703,
+    "MAE": 46.116840729608,
+    "RMSE": 59.91002329182
+  },
+  {
+    "origin": 85,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 15.622887059896,
+    "MAE": 41.977987644466,
+    "RMSE": 54.241705555707
+  },
+  {
+    "origin": 85,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 15.622887059896,
+    "MAE": 41.977987644466,
+    "RMSE": 54.241705555707
+  },
+  {
+    "origin": 86,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 18.547564202503,
+    "MAE": 49.904965565516,
+    "RMSE": 61.62303251265
+  },
+  {
+    "origin": 86,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 17.185504343427,
+    "MAE": 46.933940569431,
+    "RMSE": 55.27627223499
+  },
+  {
+    "origin": 86,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 18.631662625049,
+    "MAE": 49.791882593101,
+    "RMSE": 60.850088749297
+  },
+  {
+    "origin": 86,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 17.479931921396,
+    "MAE": 47.052826198549,
+    "RMSE": 57.250981151572
+  },
+  {
+    "origin": 86,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 17.479931921396,
+    "MAE": 47.052826198549,
+    "RMSE": 57.250981151572
+  },
+  {
+    "origin": 86,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 17.190293587741,
+    "MAE": 46.954844351103,
+    "RMSE": 55.28165749485
+  },
+  {
+    "origin": 86,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 19.373208757218,
+    "MAE": 51.220453258648,
+    "RMSE": 63.721141940581
+  },
+  {
+    "origin": 86,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 17.463816155118,
+    "MAE": 47.023735421198,
+    "RMSE": 57.168327106191
+  },
+  {
+    "origin": 86,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 18.206542183981,
+    "MAE": 48.593911034092,
+    "RMSE": 59.788721876498
+  },
+  {
+    "origin": 87,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 18.906841670871,
+    "MAE": 47.68373917906,
+    "RMSE": 62.474690051526
+  },
+  {
+    "origin": 87,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 17.744359191673,
+    "MAE": 45.76254659278,
+    "RMSE": 55.678693010803
+  },
+  {
+    "origin": 87,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 20.632050430752,
+    "MAE": 52.65799457697,
+    "RMSE": 66.017361857144
+  },
+  {
+    "origin": 87,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 18.906841670871,
+    "MAE": 47.68373917906,
+    "RMSE": 62.474690051526
+  },
+  {
+    "origin": 87,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 21.471207777251,
+    "MAE": 55.360056227295,
+    "RMSE": 67.496237663525
+  },
+  {
+    "origin": 87,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 17.720290970716,
+    "MAE": 45.703485709086,
+    "RMSE": 55.602561758913
+  },
+  {
+    "origin": 87,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 17.720290970716,
+    "MAE": 45.703485709086,
+    "RMSE": 55.602561758913
+  },
+  {
+    "origin": 87,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 18.892946974334,
+    "MAE": 47.646174803302,
+    "RMSE": 62.438933320706
+  },
+  {
+    "origin": 87,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.060266501916,
+    "MAE": 51.009567278403,
+    "RMSE": 64.932033582551
+  },
+  {
+    "origin": 88,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 19.564230247783,
+    "MAE": 48.857521356648,
+    "RMSE": 62.486958425768
+  },
+  {
+    "origin": 88,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 19.611795385475,
+    "MAE": 49.420068412333,
+    "RMSE": 61.275017027589
+  },
+  {
+    "origin": 88,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 19.611795385475,
+    "MAE": 49.420068412333,
+    "RMSE": 61.275017027589
+  },
+  {
+    "origin": 88,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 19.564230247783,
+    "MAE": 48.857521356648,
+    "RMSE": 62.486958425768
+  },
+  {
+    "origin": 88,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 19.564230247783,
+    "MAE": 48.857521356648,
+    "RMSE": 62.486958425768
+  },
+  {
+    "origin": 88,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 19.598776777618,
+    "MAE": 49.392191607611,
+    "RMSE": 61.219963496373
+  },
+  {
+    "origin": 88,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 19.598776777618,
+    "MAE": 49.392191607611,
+    "RMSE": 61.219963496373
+  },
+  {
+    "origin": 88,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 19.542482183911,
+    "MAE": 48.803095597068,
+    "RMSE": 62.424185127999
+  },
+  {
+    "origin": 88,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 19.542482183911,
+    "MAE": 48.803095597068,
+    "RMSE": 62.424185127999
+  },
+  {
+    "origin": 89,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 17.030407677362,
+    "MAE": 44.574983931122,
+    "RMSE": 56.144889872217
+  },
+  {
+    "origin": 89,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 15.890034176893,
+    "MAE": 40.746974612998,
+    "RMSE": 54.356335526636
+  },
+  {
+    "origin": 89,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 15.890034176893,
+    "MAE": 40.746974612998,
+    "RMSE": 54.356335526636
+  },
+  {
+    "origin": 89,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 14.303375513051,
+    "MAE": 36.009440064313,
+    "RMSE": 51.016839731915
+  },
+  {
+    "origin": 89,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 17.552747002486,
+    "MAE": 46.094918606191,
+    "RMSE": 56.360347752829
+  },
+  {
+    "origin": 89,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 15.887564062986,
+    "MAE": 40.741910124702,
+    "RMSE": 54.342676310236
+  },
+  {
+    "origin": 89,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 15.887564062986,
+    "MAE": 40.741910124702,
+    "RMSE": 54.342676310236
+  },
+  {
+    "origin": 89,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 14.292540783573,
+    "MAE": 35.978865589896,
+    "RMSE": 50.988846192533
+  },
+  {
+    "origin": 89,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 17.556521932006,
+    "MAE": 46.111842176103,
+    "RMSE": 56.354347579756
+  },
+  {
+    "origin": 90,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 22.595122868587,
+    "MAE": 56.6439098223,
+    "RMSE": 74.121128325828
+  },
+  {
+    "origin": 90,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 19.118669838609,
+    "MAE": 50.812362988532,
+    "RMSE": 54.534694319931
+  },
+  {
+    "origin": 90,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 33.714805313975,
+    "MAE": 86.899024266811,
+    "RMSE": 99.696440409966
+  },
+  {
+    "origin": 90,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 17.799839002405,
+    "MAE": 46.127887810392,
+    "RMSE": 52.388223216012
+  },
+  {
+    "origin": 90,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.978279274387,
+    "MAE": 53.230480346392,
+    "RMSE": 63.948063558432
+  },
+  {
+    "origin": 90,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 19.085689969735,
+    "MAE": 50.787751059705,
+    "RMSE": 54.342025994643
+  },
+  {
+    "origin": 90,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 33.893805864948,
+    "MAE": 87.384358488462,
+    "RMSE": 100.167993313007
+  },
+  {
+    "origin": 90,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 17.81783427329,
+    "MAE": 46.196052504296,
+    "RMSE": 52.397454733967
+  },
+  {
+    "origin": 90,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 20.971327129111,
+    "MAE": 53.215263218161,
+    "RMSE": 63.92114033645
+  },
+  {
+    "origin": 91,
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "MAPE": 27.833511408427,
+    "MAE": 68.208700944845,
+    "RMSE": 75.334653754904
+  },
+  {
+    "origin": 91,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 25.977269911582,
+    "MAE": 63.84901439495,
+    "RMSE": 69.717391500541
+  },
+  {
+    "origin": 91,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 29.822833476759,
+    "MAE": 73.898162060275,
+    "RMSE": 78.436372974861
+  },
+  {
+    "origin": 91,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 25.285152993776,
+    "MAE": 62.593665577753,
+    "RMSE": 66.646156061717
+  },
+  {
+    "origin": 91,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 30.514600497555,
+    "MAE": 75.520697599066,
+    "RMSE": 80.474918572425
+  },
+  {
+    "origin": 91,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "MAPE": 25.956941778159,
+    "MAE": 63.798783612345,
+    "RMSE": 69.663639643462
+  },
+  {
+    "origin": 91,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "MAPE": 29.82280959674,
+    "MAE": 73.897500787174,
+    "RMSE": 78.437719560255
+  },
+  {
+    "origin": 91,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "MAPE": 25.278365270198,
+    "MAE": 62.574780853863,
+    "RMSE": 66.633312729485
+  },
+  {
+    "origin": 91,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "MAPE": 30.315110356646,
+    "MAE": 75.263411944841,
+    "RMSE": 79.402895514697
+  }
+]

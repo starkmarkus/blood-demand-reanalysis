@@ -1,0 +1,206 @@
+{
+  "prefix77": {
+    "raw_last": 425,
+    "prepared_last": 328.556817714162,
+    "checks": {
+      "Mean12": {
+        "max_forecast_difference": 5.684341886081e-14
+      },
+      "Naive": {
+        "max_forecast_difference": 2.273736754432e-13
+      },
+      "SeasonalNaive": {
+        "max_forecast_difference": 2.557953848736e-13
+      }
+    }
+  },
+  "lstm": {
+    "scope": "Unscaled lagged inputs and inversion offsets only; no normalization or LSTM runtime reproduction",
+    "origin": 75,
+    "unchanged_training": true,
+    "changed_input_steps": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+    "changed_inversion_steps": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+    "availability": [
+      {
+        "step": 1,
+        "target_index": 76,
+        "latest_observed_input_index": 75,
+        "available_at_fixed_origin": true,
+        "x_original": 16,
+        "x_perturbed": 16,
+        "offset_original": 328,
+        "offset_perturbed": 328
+      },
+      {
+        "step": 2,
+        "target_index": 77,
+        "latest_observed_input_index": 76,
+        "available_at_fixed_origin": false,
+        "x_original": -1,
+        "x_perturbed": 6712,
+        "offset_original": 327,
+        "offset_perturbed": 7040
+      },
+      {
+        "step": 3,
+        "target_index": 78,
+        "latest_observed_input_index": 77,
+        "available_at_fixed_origin": false,
+        "x_original": 98,
+        "x_perturbed": 1960,
+        "offset_original": 425,
+        "offset_perturbed": 9000
+      },
+      {
+        "step": 4,
+        "target_index": 79,
+        "latest_observed_input_index": 78,
+        "available_at_fixed_origin": false,
+        "x_original": -114,
+        "x_perturbed": -2280,
+        "offset_original": 311,
+        "offset_perturbed": 6720
+      },
+      {
+        "step": 5,
+        "target_index": 80,
+        "latest_observed_input_index": 79,
+        "available_at_fixed_origin": false,
+        "x_original": -3,
+        "x_perturbed": -60,
+        "offset_original": 308,
+        "offset_perturbed": 6660
+      },
+      {
+        "step": 6,
+        "target_index": 81,
+        "latest_observed_input_index": 80,
+        "available_at_fixed_origin": false,
+        "x_original": 75,
+        "x_perturbed": 1500,
+        "offset_original": 383,
+        "offset_perturbed": 8160
+      },
+      {
+        "step": 7,
+        "target_index": 82,
+        "latest_observed_input_index": 81,
+        "available_at_fixed_origin": false,
+        "x_original": -107,
+        "x_perturbed": -2140,
+        "offset_original": 276,
+        "offset_perturbed": 6020
+      },
+      {
+        "step": 8,
+        "target_index": 83,
+        "latest_observed_input_index": 82,
+        "available_at_fixed_origin": false,
+        "x_original": -49,
+        "x_perturbed": -980,
+        "offset_original": 227,
+        "offset_perturbed": 5040
+      },
+      {
+        "step": 9,
+        "target_index": 84,
+        "latest_observed_input_index": 83,
+        "available_at_fixed_origin": false,
+        "x_original": 26,
+        "x_perturbed": 520,
+        "offset_original": 253,
+        "offset_perturbed": 5560
+      },
+      {
+        "step": 10,
+        "target_index": 85,
+        "latest_observed_input_index": 84,
+        "available_at_fixed_origin": false,
+        "x_original": 2,
+        "x_perturbed": 40,
+        "offset_original": 255,
+        "offset_perturbed": 5600
+      },
+      {
+        "step": 11,
+        "target_index": 86,
+        "latest_observed_input_index": 85,
+        "available_at_fixed_origin": false,
+        "x_original": 99,
+        "x_perturbed": 1980,
+        "offset_original": 354,
+        "offset_perturbed": 7580
+      },
+      {
+        "step": 12,
+        "target_index": 87,
+        "latest_observed_input_index": 86,
+        "available_at_fixed_origin": false,
+        "x_original": -16,
+        "x_perturbed": -320,
+        "offset_original": 338,
+        "offset_perturbed": 7260
+      },
+      {
+        "step": 13,
+        "target_index": 88,
+        "latest_observed_input_index": 87,
+        "available_at_fixed_origin": false,
+        "x_original": 46,
+        "x_perturbed": 920,
+        "offset_original": 384,
+        "offset_perturbed": 8180
+      },
+      {
+        "step": 14,
+        "target_index": 89,
+        "latest_observed_input_index": 88,
+        "available_at_fixed_origin": false,
+        "x_original": -85,
+        "x_perturbed": -1700,
+        "offset_original": 299,
+        "offset_perturbed": 6480
+      },
+      {
+        "step": 15,
+        "target_index": 90,
+        "latest_observed_input_index": 89,
+        "available_at_fixed_origin": false,
+        "x_original": -56,
+        "x_perturbed": -1120,
+        "offset_original": 243,
+        "offset_perturbed": 5360
+      },
+      {
+        "step": 16,
+        "target_index": 91,
+        "latest_observed_input_index": 90,
+        "available_at_fixed_origin": false,
+        "x_original": 89,
+        "x_perturbed": 1780,
+        "offset_original": 332,
+        "offset_perturbed": 7140
+      },
+      {
+        "step": 17,
+        "target_index": 92,
+        "latest_observed_input_index": 91,
+        "available_at_fixed_origin": false,
+        "x_original": 14,
+        "x_perturbed": 280,
+        "offset_original": 346,
+        "offset_perturbed": 7420
+      },
+      {
+        "step": 18,
+        "target_index": 93,
+        "latest_observed_input_index": 92,
+        "available_at_fixed_origin": false,
+        "x_original": -60,
+        "x_perturbed": -1200,
+        "offset_original": 286,
+        "offset_perturbed": 6220
+      }
+    ]
+  }
+}

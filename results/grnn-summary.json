@@ -1,0 +1,83 @@
+[
+  {
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "O",
+    "median_MAPE": 19.118669838609,
+    "mean_MAPE": 18.634858419777,
+    "median_MAE": 50.812362988532,
+    "median_RMSE": 61.275017027589
+  },
+  {
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "O",
+    "median_MAPE": 18.756810680376,
+    "mean_MAPE": 18.093621795075,
+    "median_MAE": 49.392191607611,
+    "median_RMSE": 55.602561758913
+  },
+  {
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "O",
+    "median_MAPE": 18.744959000903,
+    "mean_MAPE": 18.225609550712,
+    "median_MAE": 47.68373917906,
+    "median_RMSE": 62.474690051526
+  },
+  {
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "O",
+    "median_MAPE": 17.81783427329,
+    "mean_MAPE": 17.782023335158,
+    "median_MAE": 47.030154278351,
+    "median_RMSE": 57.168327106191
+  },
+  {
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "selection": "V",
+    "median_MAPE": 20.122785337062,
+    "mean_MAPE": 20.864907266461,
+    "median_MAE": 53.443691039004,
+    "median_RMSE": 66.017361857144
+  },
+  {
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "selection": "V",
+    "median_MAPE": 19.598776777618,
+    "mean_MAPE": 20.011916852836,
+    "median_MAE": 51.220453258648,
+    "median_RMSE": 63.721141940581
+  },
+  {
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "selection": "V",
+    "median_MAPE": 19.564230247783,
+    "mean_MAPE": 19.421207531541,
+    "median_MAE": 52.005167187382,
+    "median_RMSE": 63.701453421414
+  },
+  {
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "selection": "V",
+    "median_MAPE": 18.690450458602,
+    "mean_MAPE": 18.855789073629,
+    "median_MAE": 49.180939483497,
+    "median_RMSE": 61.17383041484
+  },
+  {
+    "preprocessing": "G",
+    "strategy": "mixed",
+    "selection": "test-MIMO",
+    "median_MAPE": 19.12691016156,
+    "mean_MAPE": 19.149786396402,
+    "median_MAE": 49.904965565516,
+    "median_RMSE": 62.486958425768
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "window": {
+    "metric_rows": 408,
+    "forecast_rows": 4080,
+    "summary_rows": 24,
+    "max_metric_or_summary_delta": 8.171241461241152e-13,
+    "common_candidates": true,
+    "boundaries_pass": true,
+    "native_primary_reproduction": true,
+    "common_grid_primary_max_MAPE_change": 0.0
+  },
+  "grnn": {
+    "metric_rows": 153,
+    "forecast_rows": 1530,
+    "summary_rows": 9,
+    "max_metric_or_summary_delta": 7.531752999057062e-13,
+    "historical_rounded_max_difference": 4.922289001285662e-06,
+    "original_control_flow_pass": true
+  },
+  "information_flow": "PASS",
+  "status": "PASS"
+}

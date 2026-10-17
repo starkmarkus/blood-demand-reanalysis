@@ -1,0 +1,172 @@
+[
+  {
+    "origin": 75,
+    "method": "KNN",
+    "native_primary_delta": 1.669775429036e-13
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "native_primary_delta": 3.01980662698e-14
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "native_primary_delta": 4.867217739957e-13
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "native_primary_delta": 6.394884621841e-14
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "native_primary_delta": 3.268496584496e-13
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "native_primary_delta": 3.144151605738e-13
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "native_primary_delta": 2.025046796916e-13
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "native_primary_delta": 4.050093593833e-13
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "native_primary_delta": 2.84217094304e-14
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "native_primary_delta": 3.552713678801e-13
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "native_primary_delta": 7.815970093361e-14
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "native_primary_delta": 1.7763568394e-14
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "native_primary_delta": 1.918465386552e-13
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "native_primary_delta": 7.460698725481e-14
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "native_primary_delta": 4.227729277773e-13
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "native_primary_delta": 3.37507799486e-14
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "native_primary_delta": 4.281019982955e-13
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "native_primary_delta": 4.956035581927e-13
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "native_primary_delta": 2.771116669464e-13
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "native_primary_delta": 4.796163466381e-13
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "native_primary_delta": 3.836930773105e-13
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "native_primary_delta": 2.344791028008e-13
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "native_primary_delta": 1.918465386552e-13
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "native_primary_delta": 3.907985046681e-14
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "native_primary_delta": 4.973799150321e-13
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "native_primary_delta": 2.202682480856e-13
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "native_primary_delta": 1.492139745096e-13
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "native_primary_delta": 2.167155344068e-13
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "native_primary_delta": 3.765876499529e-13
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "native_primary_delta": 6.394884621841e-14
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "native_primary_delta": 4.156675004197e-13
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "native_primary_delta": 3.943512183469e-13
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "native_primary_delta": 4.618527782441e-13
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "native_primary_delta": 2.202682480856e-13
+  }
+]

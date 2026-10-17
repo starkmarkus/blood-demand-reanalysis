@@ -1,0 +1,546 @@
+[
+  {
+    "origin": 75,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "45;51;57",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 75,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "45;51;57",
+    "selected": 1,
+    "oracle": 3
+  },
+  {
+    "origin": 75,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "45;51;57",
+    "selected": 2,
+    "oracle": 4
+  },
+  {
+    "origin": 75,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "45;51;57",
+    "selected": 1,
+    "oracle": 3
+  },
+  {
+    "origin": 76,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "47;53;59",
+    "selected": 2,
+    "oracle": 4
+  },
+  {
+    "origin": 76,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "47;53;59",
+    "selected": 4,
+    "oracle": 1
+  },
+  {
+    "origin": 76,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "47;53;59",
+    "selected": 4,
+    "oracle": 4
+  },
+  {
+    "origin": 76,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "47;53;59",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 77,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "49;55;61",
+    "selected": 4,
+    "oracle": 2
+  },
+  {
+    "origin": 77,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "49;55;61",
+    "selected": 4,
+    "oracle": 3
+  },
+  {
+    "origin": 77,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "49;55;61",
+    "selected": 4,
+    "oracle": 1
+  },
+  {
+    "origin": 77,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "49;55;61",
+    "selected": 4,
+    "oracle": 4
+  },
+  {
+    "origin": 78,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "51;57;63",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 78,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "51;57;63",
+    "selected": 2,
+    "oracle": 1
+  },
+  {
+    "origin": 78,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "51;57;63",
+    "selected": 2,
+    "oracle": 1
+  },
+  {
+    "origin": 78,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "51;57;63",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 79,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "53;59;65",
+    "selected": 4,
+    "oracle": 1
+  },
+  {
+    "origin": 79,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "53;59;65",
+    "selected": 3,
+    "oracle": 3
+  },
+  {
+    "origin": 79,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "53;59;65",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 79,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "53;59;65",
+    "selected": 1,
+    "oracle": 3
+  },
+  {
+    "origin": 80,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "55;61;67",
+    "selected": 4,
+    "oracle": 2
+  },
+  {
+    "origin": 80,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "55;61;67",
+    "selected": 3,
+    "oracle": 3
+  },
+  {
+    "origin": 80,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "55;61;67",
+    "selected": 2,
+    "oracle": 2
+  },
+  {
+    "origin": 80,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "55;61;67",
+    "selected": 2,
+    "oracle": 3
+  },
+  {
+    "origin": 81,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "57;63;69",
+    "selected": 3,
+    "oracle": 1
+  },
+  {
+    "origin": 81,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "57;63;69",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 81,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "57;63;69",
+    "selected": 4,
+    "oracle": 1
+  },
+  {
+    "origin": 81,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "57;63;69",
+    "selected": 3,
+    "oracle": 1
+  },
+  {
+    "origin": 82,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "59;65;71",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 82,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "59;65;71",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 82,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "59;65;71",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 82,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "59;65;71",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 83,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "61;67;73",
+    "selected": 2,
+    "oracle": 2
+  },
+  {
+    "origin": 83,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "61;67;73",
+    "selected": 3,
+    "oracle": 1
+  },
+  {
+    "origin": 83,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "61;67;73",
+    "selected": 2,
+    "oracle": 2
+  },
+  {
+    "origin": 83,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "61;67;73",
+    "selected": 2,
+    "oracle": 1
+  },
+  {
+    "origin": 84,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "63;69;75",
+    "selected": 4,
+    "oracle": 3
+  },
+  {
+    "origin": 84,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "63;69;75",
+    "selected": 1,
+    "oracle": 3
+  },
+  {
+    "origin": 84,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "63;69;75",
+    "selected": 1,
+    "oracle": 3
+  },
+  {
+    "origin": 84,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "63;69;75",
+    "selected": 2,
+    "oracle": 3
+  },
+  {
+    "origin": 85,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "65;71;77",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 85,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "65;71;77",
+    "selected": 3,
+    "oracle": 1
+  },
+  {
+    "origin": 85,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "65;71;77",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 85,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "65;71;77",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 86,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "67;73;79",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 86,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "67;73;79",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 86,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "67;73;79",
+    "selected": 2,
+    "oracle": 4
+  },
+  {
+    "origin": 86,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "67;73;79",
+    "selected": 2,
+    "oracle": 1
+  },
+  {
+    "origin": 87,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "69;75;81",
+    "selected": 3,
+    "oracle": 4
+  },
+  {
+    "origin": 87,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "69;75;81",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 87,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "69;75;81",
+    "selected": 4,
+    "oracle": 4
+  },
+  {
+    "origin": 87,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "69;75;81",
+    "selected": 2,
+    "oracle": 4
+  },
+  {
+    "origin": 88,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "71;77;83",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 88,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "71;77;83",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 88,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "71;77;83",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 88,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "71;77;83",
+    "selected": 1,
+    "oracle": 1
+  },
+  {
+    "origin": 89,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "73;79;85",
+    "selected": 2,
+    "oracle": 2
+  },
+  {
+    "origin": 89,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "73;79;85",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 89,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "73;79;85",
+    "selected": 2,
+    "oracle": 2
+  },
+  {
+    "origin": 89,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "73;79;85",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 90,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "75;81;87",
+    "selected": 4,
+    "oracle": 3
+  },
+  {
+    "origin": 90,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "75;81;87",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 90,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "75;81;87",
+    "selected": 4,
+    "oracle": 3
+  },
+  {
+    "origin": 90,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "75;81;87",
+    "selected": 1,
+    "oracle": 4
+  },
+  {
+    "origin": 91,
+    "preprocessing": "G",
+    "strategy": "MIMO",
+    "inner_ends": "77;83;89",
+    "selected": 2,
+    "oracle": 3
+  },
+  {
+    "origin": 91,
+    "preprocessing": "G",
+    "strategy": "recursive",
+    "inner_ends": "77;83;89",
+    "selected": 2,
+    "oracle": 4
+  },
+  {
+    "origin": 91,
+    "preprocessing": "P",
+    "strategy": "MIMO",
+    "inner_ends": "77;83;89",
+    "selected": 2,
+    "oracle": 3
+  },
+  {
+    "origin": 91,
+    "preprocessing": "P",
+    "strategy": "recursive",
+    "inner_ends": "77;83;89",
+    "selected": 1,
+    "oracle": 4
+  }
+]

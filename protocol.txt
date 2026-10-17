@@ -1,0 +1,35 @@
+Extension protocol fixed before calculating the added results, 17 October 2026.
+
+This is an exploratory extension following external feedback, not preregistration.
+Keep every v1.0.0 result unchanged. New results have separate window-*, grnn-* and information-flow filenames.
+
+1. Audit the forward implementations of ARIMA, KNN, NNAR, GRNN, MLP, ELM and LSTM.
+Distinguish outer-outcome tuning, preprocessing and observed future predictor use.
+Code-level findings alone do not establish the magnitude of each numerical effect.
+
+2. Historical-window sensitivity: KNN and NNAR, prefix preprocessing, seed 1,
+matched inner horizon H=93-n and origins 75:91. Use window counts J in {2,3,4}
+and endpoint spacings s in {3,6} months. Endpoints are n-H-s*(J-1):...:n-H.
+Require at least 24 training observations. The shortest planned prefix is 39.
+Use the intersection of feasible candidate IDs across ALL six designs at each
+outer origin. This gives identical KNN candidate availability across window designs.
+The original three-window/six-month design must also be recalculated on that common
+grid; it need not equal the original result, which used a less restricted grid.
+Keep the original-grid result visible as a separate reference. Report all designs.
+Evaluate both historical selection and the matching test-guided diagnostic bound.
+Use raw observed validation targets, excluding missing targets as in v1.0.0.
+Reuse only cached fits whose complete inputs/settings are unchanged; validate the
+original three-window/six-month native-grid output against the stored primary run.
+
+3. GRNN: establish a compatible historical package implementation from CRAN source,
+inspect all defaults and reproduce the original forward call sequence before calling
+any result a reproduction. Explicitly check whether selection and final forecasting
+use the same multi-step strategy. Report mismatches rather than silently correcting.
+Then evaluate internally consistent, declared GRNN procedures on the same raw targets
+and historical-prefix preparation, using the original scalar lag choices 1:4.
+No numerical GRNN advantage, discrepancy or expected ranking is prespecified.
+
+4. Checks: independent Python metric aggregation, target identity, window boundaries,
+common candidate sets, oracle bounds only for genuinely identical candidate forecasts,
+and fresh-cache future-perturbation checks for newly introduced selection code.
+Document any runtime or compatibility qualifications before interpreting results.

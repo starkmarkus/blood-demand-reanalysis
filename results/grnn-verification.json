@@ -1,0 +1,22 @@
+{
+  "source_version": "0.1.0",
+  "source_loaded": true,
+  "original_version_unrecorded": true,
+  "original_median_MAPE": 19.12691016156,
+  "max_historical_rounded_metric_difference": 4.922289045695e-06,
+  "original_search_strategy": "MIMO",
+  "original_refit_strategy": "recursive",
+  "warnings": [],
+  "fallbacks": [
+    {
+      "n": 51,
+      "error": "non-stationary AR part from CSS",
+      "action": "ML with allowdrift=FALSE, ic=bic"
+    },
+    {
+      "n": 51,
+      "error": "non-stationary AR part from CSS",
+      "action": "ML with allowdrift=FALSE, ic=bic"
+    }
+  ]
+}

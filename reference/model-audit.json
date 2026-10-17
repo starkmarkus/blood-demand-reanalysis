@@ -1,0 +1,75 @@
+{
+  "scope": "Forward wrappers and preprocessing calls at the pinned original commit; absence of an identified outer-test search is not certification of all package internals.",
+  "models": [
+    {
+      "model": "ARIMA",
+      "outer_tuning": "Not identified in the released forward wrapper",
+      "other_information": "Whole-series preprocessing precedes evaluation",
+      "numerical_scope": "Original reconstruction and historical-prefix reference",
+      "file": "rolling-eval-ARIMA-script.R",
+      "anchor": "AutoArimaModel[[i_index]]<-auto.arima",
+      "line": 24,
+      "sha256": "621f69e76bb1549aca293ac8daa63695d4caf05698e76b0655dd674158e73cd5"
+    },
+    {
+      "model": "KNN",
+      "outer_tuning": "Lag and neighbour count minimize outer-test MAPE",
+      "other_information": "Whole-series preprocessing precedes evaluation",
+      "numerical_scope": "Factorial reanalysis and window sensitivities",
+      "file": "KNN-k-lag-best-script.R",
+      "anchor": "min(MAPE)",
+      "line": 15,
+      "sha256": "57cb19d1d7367021712bcdaa629aebd854a78503ad4cceb27b12c9f2fa910c8e"
+    },
+    {
+      "model": "NNAR",
+      "outer_tuning": "Input order and repeats minimize outer-test MAPE",
+      "other_information": "Whole-series preprocessing precedes evaluation",
+      "numerical_scope": "Point-forecast factorial reanalysis and window sensitivities",
+      "file": "NNAR-tuning-script.R",
+      "anchor": "min(MAPE)",
+      "line": 27,
+      "sha256": "01a39d37c77e0cfd7ef2ffabda0a5d8d32ccddcc154d34fdcb643098be8f7bdd"
+    },
+    {
+      "model": "GRNN",
+      "outer_tuning": "Lag minimizes MIMO outer-test MAPE",
+      "other_information": "Final refit omits msas and defaults to recursive under the compatible 0.1.0 source; whole-series preprocessing",
+      "numerical_scope": "Original mixed-strategy reconstruction plus consistent MIMO and recursive factorial comparisons",
+      "file": "ro-eval-GRNN-script.R",
+      "anchor": "Out_GRNN<-GRNN_lag_forecast_best",
+      "line": 27,
+      "sha256": "86465c327098e568624a0490b591f1a3969ba1358144585cda539f93d08fde3c"
+    },
+    {
+      "model": "MLP",
+      "outer_tuning": "Not identified in the released forward wrapper; automatic fitting receives train_series",
+      "other_information": "Whole-series preprocessing; main script passes seed.number=NULL",
+      "numerical_scope": "Code audit only; no new model fitting",
+      "file": "ro-eval-MLP-script.R",
+      "anchor": "MLP_Model[[i_index]]<- mlp",
+      "line": 30,
+      "sha256": "df8b6e5919699f2ea5952ee6ae9782e40684dff2c033eea93a47ea880a5e82fd"
+    },
+    {
+      "model": "ELM",
+      "outer_tuning": "Not identified in the released forward wrapper; automatic fitting receives train_series",
+      "other_information": "Whole-series preprocessing; main script passes seed.number=NULL",
+      "numerical_scope": "Code audit only; no new model fitting",
+      "file": "ro-eval-ELM-script.R",
+      "anchor": "ELM_Model[[i_index]]<- elm",
+      "line": 31,
+      "sha256": "dff3902e1837881a6ac96d5d939d70d062cba11aec3cecd3b614c0c3e3230029"
+    },
+    {
+      "model": "LSTM",
+      "outer_tuning": "No explicit outer-MAPE hyperparameter search identified in the released wrapper",
+      "other_information": "Later steps use observed test-period lagged inputs and, with difference=TRUE, observed inversion offsets; whole-series preprocessing",
+      "numerical_scope": "Input-availability audit only; no normalization/Keras runtime or forecast-error reproduction",
+      "file": "rolling-eval-LSTM-script.R",
+      "anchor": "if(difference==TRUE)  yhat  = yhat + series[(n+j)]",
+      "line": 121,
+      "sha256": "ee61267be1f525c90fed2bf7f5fda9292d6d4971dc0ea6dd3e7a34569a7d908d"
+    }
+  ]
+}

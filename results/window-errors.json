@@ -1,0 +1,4082 @@
+[
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.79358526003,
+    "MAE": 43.718177907113,
+    "RMSE": 55.137206715253
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.134489003717,
+    "MAE": 53.012710031012,
+    "RMSE": 67.552223228833
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.79358526003,
+    "MAE": 43.718177907113,
+    "RMSE": 55.137206715253
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.066112075927,
+    "MAE": 52.852068510884,
+    "RMSE": 68.019390181549
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.79358526003,
+    "MAE": 43.718177907113,
+    "RMSE": 55.137206715253
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.066112075927,
+    "MAE": 52.852068510884,
+    "RMSE": 68.019390181549
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.79358526003,
+    "MAE": 43.718177907113,
+    "RMSE": 55.137206715253
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.033978030066,
+    "MAE": 51.843955899033,
+    "RMSE": 65.71417706012
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.79358526003,
+    "MAE": 43.718177907113,
+    "RMSE": 55.137206715253
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 16.424903448836,
+    "MAE": 50.565031471548,
+    "RMSE": 61.570032532824
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.79358526003,
+    "MAE": 43.718177907113,
+    "RMSE": 55.137206715253
+  },
+  {
+    "origin": 75,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.033978030066,
+    "MAE": 51.843955899033,
+    "RMSE": 65.71417706012
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.06338267106,
+    "MAE": 43.814629993151,
+    "RMSE": 53.786205271837
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.124878916831,
+    "MAE": 44.735598523922,
+    "RMSE": 55.030905765876
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.06338267106,
+    "MAE": 43.814629993151,
+    "RMSE": 53.786205271837
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.124878916831,
+    "MAE": 44.735598523922,
+    "RMSE": 55.030905765876
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.06338267106,
+    "MAE": 43.814629993151,
+    "RMSE": 53.786205271837
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.124878916831,
+    "MAE": 44.735598523922,
+    "RMSE": 55.030905765876
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.06338267106,
+    "MAE": 43.814629993151,
+    "RMSE": 53.786205271837
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.124878916831,
+    "MAE": 44.735598523922,
+    "RMSE": 55.030905765876
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.06338267106,
+    "MAE": 43.814629993151,
+    "RMSE": 53.786205271837
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.124882725126,
+    "MAE": 44.735615003924,
+    "RMSE": 55.030922454008
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.06338267106,
+    "MAE": 43.814629993151,
+    "RMSE": 53.786205271837
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.124882725126,
+    "MAE": 44.735615003924,
+    "RMSE": 55.030922454008
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.304252724093,
+    "MAE": 45.093150561408,
+    "RMSE": 56.550114330566
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 20.338738343929,
+    "MAE": 61.21390118743,
+    "RMSE": 74.208874179275
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.304252724093,
+    "MAE": 45.093150561408,
+    "RMSE": 56.550114330566
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 20.338738343929,
+    "MAE": 61.21390118743,
+    "RMSE": 74.208874179275
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.304252724093,
+    "MAE": 45.093150561408,
+    "RMSE": 56.550114330566
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 20.338738343929,
+    "MAE": 61.21390118743,
+    "RMSE": 74.208874179275
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.304252724093,
+    "MAE": 45.093150561408,
+    "RMSE": 56.550114330566
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 19.638208607303,
+    "MAE": 61.380086213541,
+    "RMSE": 73.636770395371
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.304252724093,
+    "MAE": 45.093150561408,
+    "RMSE": 56.550114330566
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 20.739655612773,
+    "MAE": 64.675377086282,
+    "RMSE": 76.941719924936
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.304252724093,
+    "MAE": 45.093150561408,
+    "RMSE": 56.550114330566
+  },
+  {
+    "origin": 76,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 19.638208607303,
+    "MAE": 61.380086213541,
+    "RMSE": 73.636770395371
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.371665581526,
+    "MAE": 45.133633316256,
+    "RMSE": 54.956826737317
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.688167298098,
+    "MAE": 46.860645992936,
+    "RMSE": 54.440619493157
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.371665581526,
+    "MAE": 45.133633316256,
+    "RMSE": 54.956826737317
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.539881709848,
+    "MAE": 46.649733265741,
+    "RMSE": 54.221306085512
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.371665581526,
+    "MAE": 45.133633316256,
+    "RMSE": 54.956826737317
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.539881709848,
+    "MAE": 46.649733265741,
+    "RMSE": 54.221306085512
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.371665581526,
+    "MAE": 45.133633316256,
+    "RMSE": 54.956826737317
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.480904179671,
+    "MAE": 45.57578123401,
+    "RMSE": 55.22375505263
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.371665581526,
+    "MAE": 45.133633316256,
+    "RMSE": 54.956826737317
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.480904179671,
+    "MAE": 45.57578123401,
+    "RMSE": 55.22375505263
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.371665581526,
+    "MAE": 45.133633316256,
+    "RMSE": 54.956826737317
+  },
+  {
+    "origin": 76,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.480904179671,
+    "MAE": 45.57578123401,
+    "RMSE": 55.22375505263
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.161620662764,
+    "MAE": 36.264149956076,
+    "RMSE": 46.481667353683
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.602403287755,
+    "MAE": 54.846555801275,
+    "RMSE": 69.646212383875
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.161620662764,
+    "MAE": 36.264149956076,
+    "RMSE": 46.481667353683
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.49394051477,
+    "MAE": 58.976005907448,
+    "RMSE": 73.299018567454
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.161620662764,
+    "MAE": 36.264149956076,
+    "RMSE": 46.481667353683
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.412491500632,
+    "MAE": 45.80104309704,
+    "RMSE": 53.994894572279
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.161620662764,
+    "MAE": 36.264149956076,
+    "RMSE": 46.481667353683
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 19.49394051477,
+    "MAE": 58.976005907448,
+    "RMSE": 73.299018567454
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.161620662764,
+    "MAE": 36.264149956076,
+    "RMSE": 46.481667353683
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.049837646158,
+    "MAE": 44.785214614134,
+    "RMSE": 54.422097656696
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.161620662764,
+    "MAE": 36.264149956076,
+    "RMSE": 46.481667353683
+  },
+  {
+    "origin": 77,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.8929712415,
+    "MAE": 47.124157761006,
+    "RMSE": 59.75582534092
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.739613556591,
+    "MAE": 44.501622525733,
+    "RMSE": 50.70775139028
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.888399636354,
+    "MAE": 44.438855480644,
+    "RMSE": 51.581190633814
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.739613556591,
+    "MAE": 44.501622525733,
+    "RMSE": 50.70775139028
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.888399636354,
+    "MAE": 44.438855480644,
+    "RMSE": 51.581190633814
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.739613556591,
+    "MAE": 44.501622525733,
+    "RMSE": 50.70775139028
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.888399636354,
+    "MAE": 44.438855480644,
+    "RMSE": 51.581190633814
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.739613556591,
+    "MAE": 44.501622525733,
+    "RMSE": 50.70775139028
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.888399636354,
+    "MAE": 44.438855480644,
+    "RMSE": 51.581190633814
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.739613556591,
+    "MAE": 44.501622525733,
+    "RMSE": 50.70775139028
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.888594164805,
+    "MAE": 44.439202109675,
+    "RMSE": 51.581641166306
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.739613556591,
+    "MAE": 44.501622525733,
+    "RMSE": 50.70775139028
+  },
+  {
+    "origin": 77,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.888594164805,
+    "MAE": 44.439202109675,
+    "RMSE": 51.581641166306
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.138094667081,
+    "MAE": 41.187396005484,
+    "RMSE": 53.261912332045
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.724533257715,
+    "MAE": 50.722143698798,
+    "RMSE": 61.755981469807
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.138094667081,
+    "MAE": 41.187396005484,
+    "RMSE": 53.261912332045
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.347396782142,
+    "MAE": 51.905332095664,
+    "RMSE": 64.074961379857
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.138094667081,
+    "MAE": 41.187396005484,
+    "RMSE": 53.261912332045
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.724533257715,
+    "MAE": 50.722143698798,
+    "RMSE": 61.755981469807
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.138094667081,
+    "MAE": 41.187396005484,
+    "RMSE": 53.261912332045
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 19.59713329908,
+    "MAE": 52.690063490184,
+    "RMSE": 65.312498255816
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.138094667081,
+    "MAE": 41.187396005484,
+    "RMSE": 53.261912332045
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.044352848481,
+    "MAE": 49.107262448548,
+    "RMSE": 60.631291656449
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.138094667081,
+    "MAE": 41.187396005484,
+    "RMSE": 53.261912332045
+  },
+  {
+    "origin": 78,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.211844879414,
+    "MAE": 49.607439289015,
+    "RMSE": 61.091696505322
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.881551432624,
+    "MAE": 48.492978015781,
+    "RMSE": 57.440236171511
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.881551432624,
+    "MAE": 48.492978015781,
+    "RMSE": 57.440236171511
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.881551432624,
+    "MAE": 48.492978015781,
+    "RMSE": 57.440236171511
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.881548512695,
+    "MAE": 48.49297578161,
+    "RMSE": 57.440215396251
+  },
+  {
+    "origin": 78,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.881551432624,
+    "MAE": 48.492978015781,
+    "RMSE": 57.440236171511
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.074369293237,
+    "MAE": 43.666620594876,
+    "RMSE": 55.078169953159
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.250572431626,
+    "MAE": 52.86400985909,
+    "RMSE": 60.900970970234
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.074369293237,
+    "MAE": 43.666620594876,
+    "RMSE": 55.078169953159
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.365509770345,
+    "MAE": 53.116921053337,
+    "RMSE": 61.176538043036
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.074369293237,
+    "MAE": 43.666620594876,
+    "RMSE": 55.078169953159
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.250572431626,
+    "MAE": 52.86400985909,
+    "RMSE": 60.900970970234
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.074369293237,
+    "MAE": 43.666620594876,
+    "RMSE": 55.078169953159
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 21.566377216095,
+    "MAE": 59.697905576391,
+    "RMSE": 68.538174320794
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.074369293237,
+    "MAE": 43.666620594876,
+    "RMSE": 55.078169953159
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 21.566377216095,
+    "MAE": 59.697905576391,
+    "RMSE": 68.538174320794
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.074369293237,
+    "MAE": 43.666620594876,
+    "RMSE": 55.078169953159
+  },
+  {
+    "origin": 79,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.03183153814,
+    "MAE": 50.323180748645,
+    "RMSE": 56.753669827073
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 18.455378070406,
+    "MAE": 50.33168114194,
+    "RMSE": 57.42455965691
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 22.767412455888,
+    "MAE": 60.642634581746,
+    "RMSE": 71.553866333454
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 18.455378070406,
+    "MAE": 50.33168114194,
+    "RMSE": 57.42455965691
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.766866975017,
+    "MAE": 51.088489166534,
+    "RMSE": 58.878263673133
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 18.455378070406,
+    "MAE": 50.33168114194,
+    "RMSE": 57.42455965691
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 22.767412455888,
+    "MAE": 60.642634581746,
+    "RMSE": 71.553866333454
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 18.455378070406,
+    "MAE": 50.33168114194,
+    "RMSE": 57.42455965691
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 23.502911990469,
+    "MAE": 62.592022860159,
+    "RMSE": 73.656305260587
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 18.455378070406,
+    "MAE": 50.33168114194,
+    "RMSE": 57.42455965691
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 23.502911990469,
+    "MAE": 62.592022860159,
+    "RMSE": 73.656305260587
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 18.455378070406,
+    "MAE": 50.33168114194,
+    "RMSE": 57.42455965691
+  },
+  {
+    "origin": 79,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 23.502911990469,
+    "MAE": 62.592022860159,
+    "RMSE": 73.656305260587
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.928678591468,
+    "MAE": 45.236447727742,
+    "RMSE": 53.140224236839
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.657452758347,
+    "MAE": 48.50384088238,
+    "RMSE": 59.325072781528
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.928678591468,
+    "MAE": 45.236447727742,
+    "RMSE": 53.140224236839
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.407682337737,
+    "MAE": 50.730330631067,
+    "RMSE": 60.803214089912
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.928678591468,
+    "MAE": 45.236447727742,
+    "RMSE": 53.140224236839
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.407682337737,
+    "MAE": 50.730330631067,
+    "RMSE": 60.803214089912
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.928678591468,
+    "MAE": 45.236447727742,
+    "RMSE": 53.140224236839
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 20.599193748618,
+    "MAE": 53.009208909933,
+    "RMSE": 65.98275463919
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.928678591468,
+    "MAE": 45.236447727742,
+    "RMSE": 53.140224236839
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 41.449828546233,
+    "MAE": 110.739896164539,
+    "RMSE": 128.618866529673
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.928678591468,
+    "MAE": 45.236447727742,
+    "RMSE": 53.140224236839
+  },
+  {
+    "origin": 80,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 20.754374325643,
+    "MAE": 53.035464547524,
+    "RMSE": 67.484083301227
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 29.279981523483,
+    "MAE": 76.227395415532,
+    "RMSE": 88.922252303411
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 22.303419249672,
+    "MAE": 57.734611497586,
+    "RMSE": 70.799549745119
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 22.303419249672,
+    "MAE": 57.734611497586,
+    "RMSE": 70.799549745119
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 22.302443229555,
+    "MAE": 57.732566121611,
+    "RMSE": 70.794990828827
+  },
+  {
+    "origin": 80,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 29.279981523483,
+    "MAE": 76.227395415532,
+    "RMSE": 88.922252303411
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.240251324665,
+    "MAE": 45.524271189813,
+    "RMSE": 51.862412091168
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.995057886793,
+    "MAE": 50.46064973838,
+    "RMSE": 55.577175233223
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.240251324665,
+    "MAE": 45.524271189813,
+    "RMSE": 51.862412091168
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 26.079955476335,
+    "MAE": 67.529912247114,
+    "RMSE": 80.118173054508
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.240251324665,
+    "MAE": 45.524271189813,
+    "RMSE": 51.862412091168
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 26.584994895179,
+    "MAE": 68.910598840698,
+    "RMSE": 81.44553189123
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.240251324665,
+    "MAE": 45.524271189813,
+    "RMSE": 51.862412091168
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 28.462342368008,
+    "MAE": 73.397611256058,
+    "RMSE": 87.969949352856
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.240251324665,
+    "MAE": 45.524271189813,
+    "RMSE": 51.862412091168
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.466999197884,
+    "MAE": 48.966450300538,
+    "RMSE": 57.872335444163
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.240251324665,
+    "MAE": 45.524271189813,
+    "RMSE": 51.862412091168
+  },
+  {
+    "origin": 81,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 19.964504789774,
+    "MAE": 53.780698338615,
+    "RMSE": 61.226700222725
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 21.365518595323,
+    "MAE": 55.362328445626,
+    "RMSE": 67.551426582389
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 21.365518595323,
+    "MAE": 55.362328445626,
+    "RMSE": 67.551426582389
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.683336079179,
+    "MAE": 46.972739197194,
+    "RMSE": 54.906354711531
+  },
+  {
+    "origin": 81,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.684445842257,
+    "MAE": 46.974324018947,
+    "RMSE": 54.910844906287
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 11.924917161242,
+    "MAE": 37.337022428604,
+    "RMSE": 47.830713417266
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 13.296662124949,
+    "MAE": 37.980842693042,
+    "RMSE": 43.034940361179
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 11.924917161242,
+    "MAE": 37.337022428604,
+    "RMSE": 47.830713417266
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 13.296662124949,
+    "MAE": 37.980842693042,
+    "RMSE": 43.034940361179
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 11.924917161242,
+    "MAE": 37.337022428604,
+    "RMSE": 47.830713417266
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 13.296662124949,
+    "MAE": 37.980842693042,
+    "RMSE": 43.034940361179
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 11.924917161242,
+    "MAE": 37.337022428604,
+    "RMSE": 47.830713417266
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 13.076715783044,
+    "MAE": 37.981175632039,
+    "RMSE": 45.644447271834
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 11.924917161242,
+    "MAE": 37.337022428604,
+    "RMSE": 47.830713417266
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 13.076715783044,
+    "MAE": 37.981175632039,
+    "RMSE": 45.644447271834
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 11.924917161242,
+    "MAE": 37.337022428604,
+    "RMSE": 47.830713417266
+  },
+  {
+    "origin": 82,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 13.0782413191,
+    "MAE": 40.894667974047,
+    "RMSE": 48.550962952387
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.420737029249,
+    "MAE": 41.237287652825,
+    "RMSE": 49.22236046146
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.420798538238,
+    "MAE": 41.23717537122,
+    "RMSE": 49.222406055684
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.420737029249,
+    "MAE": 41.237287652825,
+    "RMSE": 49.22236046146
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.420798538238,
+    "MAE": 41.23717537122,
+    "RMSE": 49.222406055684
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.420737029249,
+    "MAE": 41.237287652825,
+    "RMSE": 49.22236046146
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.420798538238,
+    "MAE": 41.23717537122,
+    "RMSE": 49.222406055684
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.420737029249,
+    "MAE": 41.237287652825,
+    "RMSE": 49.22236046146
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.420816220191,
+    "MAE": 41.236878163549,
+    "RMSE": 49.221799298848
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.420737029249,
+    "MAE": 41.237287652825,
+    "RMSE": 49.22236046146
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.420816220191,
+    "MAE": 41.236878163549,
+    "RMSE": 49.221799298848
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.420737029249,
+    "MAE": 41.237287652825,
+    "RMSE": 49.22236046146
+  },
+  {
+    "origin": 82,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.420816220191,
+    "MAE": 41.236878163549,
+    "RMSE": 49.221799298848
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.410793022992,
+    "MAE": 37.126629269214,
+    "RMSE": 43.146429220076
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.965300386218,
+    "MAE": 42.769978329117,
+    "RMSE": 48.869240197184
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.410793022992,
+    "MAE": 37.126629269214,
+    "RMSE": 43.146429220076
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.965300386218,
+    "MAE": 42.769978329117,
+    "RMSE": 48.869240197184
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.410793022992,
+    "MAE": 37.126629269214,
+    "RMSE": 43.146429220076
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.965300386218,
+    "MAE": 42.769978329117,
+    "RMSE": 48.869240197184
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.410793022992,
+    "MAE": 37.126629269214,
+    "RMSE": 43.146429220076
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 12.432954534719,
+    "MAE": 37.897976488615,
+    "RMSE": 44.793348760894
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.410793022992,
+    "MAE": 37.126629269214,
+    "RMSE": 43.146429220076
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 13.75980992247,
+    "MAE": 40.152172232692,
+    "RMSE": 47.190049485529
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.410793022992,
+    "MAE": 37.126629269214,
+    "RMSE": 43.146429220076
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 12.984696030914,
+    "MAE": 38.851225018999,
+    "RMSE": 44.127181536415
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.707913269329,
+    "MAE": 45.996338958431,
+    "RMSE": 54.036939686685
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.130448738993,
+    "MAE": 44.733620551038,
+    "RMSE": 53.374676703881
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.707913269329,
+    "MAE": 45.996338958431,
+    "RMSE": 54.036939686685
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.986421946869,
+    "MAE": 49.964361294879,
+    "RMSE": 61.490666956682
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.707913269329,
+    "MAE": 45.996338958431,
+    "RMSE": 54.036939686685
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.14007612024,
+    "MAE": 44.781285842985,
+    "RMSE": 53.447775134425
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.707913269329,
+    "MAE": 45.996338958431,
+    "RMSE": 54.036939686685
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.986421946869,
+    "MAE": 49.964361294879,
+    "RMSE": 61.490666956682
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.707913269329,
+    "MAE": 45.996338958431,
+    "RMSE": 54.036939686685
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.708001425084,
+    "MAE": 45.996469080906,
+    "RMSE": 54.037258504924
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.707913269329,
+    "MAE": 45.996338958431,
+    "RMSE": 54.036939686685
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.707913269329,
+    "MAE": 45.996338958431,
+    "RMSE": 54.036939686685
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.033433559878,
+    "MAE": 36.621165177848,
+    "RMSE": 46.882331069552
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.01863440919,
+    "MAE": 48.277555338316,
+    "RMSE": 51.792515064084
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.033433559878,
+    "MAE": 36.621165177848,
+    "RMSE": 46.882331069552
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.986497023606,
+    "MAE": 44.903238923839,
+    "RMSE": 48.662915481828
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.033433559878,
+    "MAE": 36.621165177848,
+    "RMSE": 46.882331069552
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 15.019860366092,
+    "MAE": 44.629680645298,
+    "RMSE": 48.528684638349
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.033433559878,
+    "MAE": 36.621165177848,
+    "RMSE": 46.882331069552
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.826465839753,
+    "MAE": 43.451846165137,
+    "RMSE": 52.256716561715
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.033433559878,
+    "MAE": 36.621165177848,
+    "RMSE": 46.882331069552
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.66241671866,
+    "MAE": 43.167642225663,
+    "RMSE": 51.552593258316
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.033433559878,
+    "MAE": 36.621165177848,
+    "RMSE": 46.882331069552
+  },
+  {
+    "origin": 84,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 14.088370200189,
+    "MAE": 41.135112157104,
+    "RMSE": 49.257356450395
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.277409838597,
+    "MAE": 45.791501758535,
+    "RMSE": 51.782593673833
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.493662161494,
+    "MAE": 48.753247036665,
+    "RMSE": 55.849546298264
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.277409838597,
+    "MAE": 45.791501758535,
+    "RMSE": 51.782593673833
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.493662161494,
+    "MAE": 48.753247036665,
+    "RMSE": 55.849546298264
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 15.277409838597,
+    "MAE": 45.791501758535,
+    "RMSE": 51.782593673833
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.493662161494,
+    "MAE": 48.753247036665,
+    "RMSE": 55.849546298264
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.277409838597,
+    "MAE": 45.791501758535,
+    "RMSE": 51.782593673833
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.277409838597,
+    "MAE": 45.791501758535,
+    "RMSE": 51.782593673833
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.277409838597,
+    "MAE": 45.791501758535,
+    "RMSE": 51.782593673833
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.145533031689,
+    "MAE": 51.386405816554,
+    "RMSE": 59.499493843621
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 15.277409838597,
+    "MAE": 45.791501758535,
+    "RMSE": 51.782593673833
+  },
+  {
+    "origin": 84,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.145533031689,
+    "MAE": 51.386405816554,
+    "RMSE": 59.499493843621
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 11.500425927026,
+    "MAE": 33.968738415083,
+    "RMSE": 43.65456593113
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 12.369331245072,
+    "MAE": 36.427489888915,
+    "RMSE": 43.874934800381
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 11.500425927026,
+    "MAE": 33.968738415083,
+    "RMSE": 43.65456593113
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.553929531645,
+    "MAE": 43.715429202626,
+    "RMSE": 58.730977554235
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 11.500425927026,
+    "MAE": 33.968738415083,
+    "RMSE": 43.65456593113
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 16.553929531645,
+    "MAE": 43.715429202626,
+    "RMSE": 58.730977554235
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 11.500425927026,
+    "MAE": 33.968738415083,
+    "RMSE": 43.65456593113
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 16.553929531645,
+    "MAE": 43.715429202626,
+    "RMSE": 58.730977554235
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 11.500425927026,
+    "MAE": 33.968738415083,
+    "RMSE": 43.65456593113
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 16.553929531645,
+    "MAE": 43.715429202626,
+    "RMSE": 58.730977554235
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 11.500425927026,
+    "MAE": 33.968738415083,
+    "RMSE": 43.65456593113
+  },
+  {
+    "origin": 85,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 16.553929531645,
+    "MAE": 43.715429202626,
+    "RMSE": 58.730977554235
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.68593661733,
+    "MAE": 41.87553063912,
+    "RMSE": 47.992032630452
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.687190723618,
+    "MAE": 41.819785620078,
+    "RMSE": 48.299742820954
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.68593661733,
+    "MAE": 41.87553063912,
+    "RMSE": 47.992032630452
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.794653851187,
+    "MAE": 50.084338391144,
+    "RMSE": 63.725632951556
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 14.68593661733,
+    "MAE": 41.87553063912,
+    "RMSE": 47.992032630452
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.794700560465,
+    "MAE": 50.084467565404,
+    "RMSE": 63.725764008239
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.68593661733,
+    "MAE": 41.87553063912,
+    "RMSE": 47.992032630452
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.794700560465,
+    "MAE": 50.084467565404,
+    "RMSE": 63.725764008239
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.68593661733,
+    "MAE": 41.87553063912,
+    "RMSE": 47.992032630452
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.794700560465,
+    "MAE": 50.084467565404,
+    "RMSE": 63.725764008239
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 14.68593661733,
+    "MAE": 41.87553063912,
+    "RMSE": 47.992032630452
+  },
+  {
+    "origin": 85,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.794653851187,
+    "MAE": 50.084338391144,
+    "RMSE": 63.725632951556
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.549634523933,
+    "MAE": 37.013772505628,
+    "RMSE": 48.556360672208
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 14.042595115456,
+    "MAE": 41.154281812228,
+    "RMSE": 48.488909680297
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.549634523933,
+    "MAE": 37.013772505628,
+    "RMSE": 48.556360672208
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.368217148281,
+    "MAE": 48.318777011371,
+    "RMSE": 61.310798422112
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 12.549634523933,
+    "MAE": 37.013772505628,
+    "RMSE": 48.556360672208
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.545171198633,
+    "MAE": 48.856974325592,
+    "RMSE": 62.283987545443
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.549634523933,
+    "MAE": 37.013772505628,
+    "RMSE": 48.556360672208
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.545171198633,
+    "MAE": 48.856974325592,
+    "RMSE": 62.283987545443
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.549634523933,
+    "MAE": 37.013772505628,
+    "RMSE": 48.556360672208
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.545171198633,
+    "MAE": 48.856974325592,
+    "RMSE": 62.283987545443
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 12.549634523933,
+    "MAE": 37.013772505628,
+    "RMSE": 48.556360672208
+  },
+  {
+    "origin": 86,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.591527127491,
+    "MAE": 49.052928444684,
+    "RMSE": 61.945875417522
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.529526234021,
+    "MAE": 47.873410931668,
+    "RMSE": 56.151525037799
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.617886582221,
+    "MAE": 48.053247030025,
+    "RMSE": 56.551633679343
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.529526234021,
+    "MAE": 47.873410931668,
+    "RMSE": 56.151525037799
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.617886582221,
+    "MAE": 48.053247030025,
+    "RMSE": 56.551633679343
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.529526234021,
+    "MAE": 47.873410931668,
+    "RMSE": 56.151525037799
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 17.617886582221,
+    "MAE": 48.053247030025,
+    "RMSE": 56.551633679343
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.529526234021,
+    "MAE": 47.873410931668,
+    "RMSE": 56.151525037799
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 17.617886582221,
+    "MAE": 48.053247030025,
+    "RMSE": 56.551633679343
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.529526234021,
+    "MAE": 47.873410931668,
+    "RMSE": 56.151525037799
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 26.215468600359,
+    "MAE": 69.937248812579,
+    "RMSE": 82.562227819246
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.529526234021,
+    "MAE": 47.873410931668,
+    "RMSE": 56.151525037799
+  },
+  {
+    "origin": 86,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 19.264228024438,
+    "MAE": 51.327077425553,
+    "RMSE": 63.14143978428
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 10.569085313757,
+    "MAE": 27.534544389281,
+    "RMSE": 35.708638225737
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 43.36458700355,
+    "MAE": 116.263469610364,
+    "RMSE": 129.501005743675
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 10.569085313757,
+    "MAE": 27.534544389281,
+    "RMSE": 35.708638225737
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 34.191920063752,
+    "MAE": 90.809777703846,
+    "RMSE": 100.101996232121
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 10.569085313757,
+    "MAE": 27.534544389281,
+    "RMSE": 35.708638225737
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 34.191920063752,
+    "MAE": 90.809777703846,
+    "RMSE": 100.101996232121
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 10.569085313757,
+    "MAE": 27.534544389281,
+    "RMSE": 35.708638225737
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 15.598748482436,
+    "MAE": 42.132669654951,
+    "RMSE": 46.252227367321
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 10.569085313757,
+    "MAE": 27.534544389281,
+    "RMSE": 35.708638225737
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 43.36458700355,
+    "MAE": 116.263469610364,
+    "RMSE": 129.501005743675
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 10.569085313757,
+    "MAE": 27.534544389281,
+    "RMSE": 35.708638225737
+  },
+  {
+    "origin": 87,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 43.36458700355,
+    "MAE": 116.263469610364,
+    "RMSE": 129.501005743675
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 38.350876574377,
+    "MAE": 102.541963566116,
+    "RMSE": 112.224248108938
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 36.803650935846,
+    "MAE": 97.834478192637,
+    "RMSE": 107.845848142482
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 36.803650935846,
+    "MAE": 97.834478192637,
+    "RMSE": 107.845848142482
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 87,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 32.450446204283,
+    "MAE": 85.990300280399,
+    "RMSE": 95.447900376774
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 26.683443030234,
+    "MAE": 82.6,
+    "RMSE": 105.397343420031
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 19.176315933595,
+    "MAE": 50.211865701288,
+    "RMSE": 56.216526787326
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.882226226488,
+    "MAE": 49.019101635854,
+    "RMSE": 55.888599534281
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.871630557769,
+    "MAE": 51.427622659171,
+    "RMSE": 55.015867321868
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 19.229879687601,
+    "MAE": 50.428180879231,
+    "RMSE": 56.072432603814
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 10.92427924293,
+    "MAE": 28.066666666667,
+    "RMSE": 36.009566630118
+  },
+  {
+    "origin": 88,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 16.058757092462,
+    "MAE": 42.906852954861,
+    "RMSE": 47.008192652544
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.932693469895,
+    "MAE": 47.803401800787,
+    "RMSE": 59.589243397144
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.932693469895,
+    "MAE": 47.803401800787,
+    "RMSE": 59.589243397144
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.932693469895,
+    "MAE": 47.803401800787,
+    "RMSE": 59.589243397144
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 88,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 18.461144589716,
+    "MAE": 47.852453646473,
+    "RMSE": 54.82830201313
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 9.970634842524,
+    "MAE": 28.468438658177,
+    "RMSE": 29.755130249548
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 9.970634842524,
+    "MAE": 28.468438658177,
+    "RMSE": 29.755130249548
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 20.002746583177,
+    "MAE": 56.769745069942,
+    "RMSE": 60.683895102772
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 9.970634842524,
+    "MAE": 28.468438658177,
+    "RMSE": 29.755130249548
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 16.691039796582,
+    "MAE": 44.396174946871,
+    "RMSE": 53.131157792863
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 8.1866306545,
+    "MAE": 24.625,
+    "RMSE": 28.895285082518
+  },
+  {
+    "origin": 89,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 16.691039796582,
+    "MAE": 44.396174946871,
+    "RMSE": 53.131157792863
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.608281113999,
+    "MAE": 51.242626412144,
+    "RMSE": 56.795402898871
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 21.889173611167,
+    "MAE": 63.408987796966,
+    "RMSE": 68.565260334303
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.608281113999,
+    "MAE": 51.242626412144,
+    "RMSE": 56.795402898871
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 22.125282126546,
+    "MAE": 64.063147687201,
+    "RMSE": 69.382862723453
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 17.608281113999,
+    "MAE": 51.242626412144,
+    "RMSE": 56.795402898871
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 22.125282126546,
+    "MAE": 64.063147687201,
+    "RMSE": 69.382862723453
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.608281113999,
+    "MAE": 51.242626412144,
+    "RMSE": 56.795402898871
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 22.125282126546,
+    "MAE": 64.063147687201,
+    "RMSE": 69.382862723453
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.608281113999,
+    "MAE": 51.242626412144,
+    "RMSE": 56.795402898871
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 22.125282126546,
+    "MAE": 64.063147687201,
+    "RMSE": 69.382862723453
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 17.608281113999,
+    "MAE": 51.242626412144,
+    "RMSE": 56.795402898871
+  },
+  {
+    "origin": 89,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 22.125282126546,
+    "MAE": 64.063147687201,
+    "RMSE": 69.382862723453
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 9.494271732602,
+    "MAE": 25.330316653479,
+    "RMSE": 26.718859634835
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 21.724001256674,
+    "MAE": 54.739255842939,
+    "RMSE": 67.260058868426
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 9.494271732602,
+    "MAE": 25.330316653479,
+    "RMSE": 26.718859634835
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 31.946852712408,
+    "MAE": 82.022987674518,
+    "RMSE": 95.066075983827
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 9.494271732602,
+    "MAE": 25.330316653479,
+    "RMSE": 26.718859634835
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 31.946852712408,
+    "MAE": 82.022987674518,
+    "RMSE": 95.066075983827
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 9.494271732602,
+    "MAE": 25.330316653479,
+    "RMSE": 26.718859634835
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 31.946852712408,
+    "MAE": 82.022987674518,
+    "RMSE": 95.066075983827
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 9.494271732602,
+    "MAE": 25.330316653479,
+    "RMSE": 26.718859634835
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 31.946852712408,
+    "MAE": 82.022987674518,
+    "RMSE": 95.066075983827
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 9.494271732602,
+    "MAE": 25.330316653479,
+    "RMSE": 26.718859634835
+  },
+  {
+    "origin": 90,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 30.820802554426,
+    "MAE": 78.795976209952,
+    "RMSE": 92.489770260629
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 19.861275291697,
+    "MAE": 52.261160116633,
+    "RMSE": 57.718778785924
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 20.321145782364,
+    "MAE": 53.273091229968,
+    "RMSE": 59.236369602947
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 19.861275291697,
+    "MAE": 52.261160116633,
+    "RMSE": 57.718778785924
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 21.28907805762,
+    "MAE": 53.970608544334,
+    "RMSE": 65.012808542764
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 19.861275291697,
+    "MAE": 52.261160116633,
+    "RMSE": 57.718778785924
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 21.288966801828,
+    "MAE": 53.970349021693,
+    "RMSE": 65.012413826893
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 19.861275291697,
+    "MAE": 52.261160116633,
+    "RMSE": 57.718778785924
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 21.288966801828,
+    "MAE": 53.970349021693,
+    "RMSE": 65.012413826893
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 19.861275291697,
+    "MAE": 52.261160116633,
+    "RMSE": 57.718778785924
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 21.288966801828,
+    "MAE": 53.970349021693,
+    "RMSE": 65.012413826893
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 19.861275291697,
+    "MAE": 52.261160116633,
+    "RMSE": 57.718778785924
+  },
+  {
+    "origin": 90,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 24.027701901794,
+    "MAE": 63.26798016292,
+    "RMSE": 69.144855774757
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.152305491361,
+    "MAE": 44.333333333333,
+    "RMSE": 49.640932930619
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 18.152305491361,
+    "MAE": 44.333333333333,
+    "RMSE": 49.640932930619
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 50.404166655134,
+    "MAE": 126.946243255353,
+    "RMSE": 129.264058219271
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 55.131260287095,
+    "MAE": 138.629271762823,
+    "RMSE": 141.595953566008
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 55.131260287095,
+    "MAE": 138.629271762823,
+    "RMSE": 141.595953566008
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 16.319392338706,
+    "MAE": 38.75,
+    "RMSE": 49.572197629092
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 20.52273102434,
+    "MAE": 49.9375,
+    "RMSE": 56.799056440226
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 30.794590636701,
+    "MAE": 76.620247874533,
+    "RMSE": 80.313079651171
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 33.843947834962,
+    "MAE": 84.267825840311,
+    "RMSE": 88.14804412743
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 30.794590636701,
+    "MAE": 76.620247874533,
+    "RMSE": 80.313079651171
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 33.843947834962,
+    "MAE": 84.267825840311,
+    "RMSE": 88.14804412743
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "MAPE": 30.794590636701,
+    "MAE": 76.620247874533,
+    "RMSE": 80.313079651171
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "MAPE": 33.843947834962,
+    "MAE": 84.267825840311,
+    "RMSE": 88.14804412743
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 30.794590636701,
+    "MAE": 76.620247874533,
+    "RMSE": 80.313079651171
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 33.843947834962,
+    "MAE": 84.267825840311,
+    "RMSE": 88.14804412743
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 30.794590636701,
+    "MAE": 76.620247874533,
+    "RMSE": 80.313079651171
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 33.843941317185,
+    "MAE": 84.267810978306,
+    "RMSE": 88.148024531317
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "MAPE": 30.794590636701,
+    "MAE": 76.620247874533,
+    "RMSE": 80.313079651171
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "MAPE": 33.843941317185,
+    "MAE": 84.267810978306,
+    "RMSE": 88.148024531317
+  }
+]

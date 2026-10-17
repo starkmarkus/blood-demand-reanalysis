@@ -1,0 +1,15 @@
+{
+  "warnings": [],
+  "fallbacks": [
+    {
+      "n": [51],
+      "error": ["non-stationary AR part from CSS"],
+      "action": ["ML with allowdrift=FALSE, ic=bic"]
+    },
+    {
+      "n": [51],
+      "error": ["non-stationary AR part from CSS"],
+      "action": ["ML with allowdrift=FALSE, ic=bic"]
+    }
+  ]
+}

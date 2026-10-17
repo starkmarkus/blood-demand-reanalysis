@@ -1,0 +1,38 @@
+[
+  {
+    "origin": 75,
+    "method": "KNN",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 75,
+    "method": "NNAR",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 83,
+    "method": "KNN",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 83,
+    "method": "NNAR",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 91,
+    "method": "KNN",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  },
+  {
+    "origin": 91,
+    "method": "NNAR",
+    "max_forecast_delta": 0,
+    "same_selection": true
+  }
+]

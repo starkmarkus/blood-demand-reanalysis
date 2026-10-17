@@ -1,0 +1,242 @@
+[
+  {
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "median_MAPE": 12.410793022992,
+    "mean_MAPE": 13.091395058877,
+    "median_MAE": 37.126629269214,
+    "median_RMSE": 47.830713417266
+  },
+  {
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "O",
+    "median_MAPE": 17.608281113999,
+    "mean_MAPE": 18.66438991329,
+    "median_MAE": 47.852453646473,
+    "median_RMSE": 54.956826737317
+  },
+  {
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "median_MAPE": 12.410793022992,
+    "mean_MAPE": 13.091395058877,
+    "median_MAE": 37.126629269214,
+    "median_RMSE": 47.830713417266
+  },
+  {
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "O",
+    "median_MAPE": 17.608281113999,
+    "mean_MAPE": 18.66438991329,
+    "median_MAE": 47.852453646473,
+    "median_RMSE": 54.956826737317
+  },
+  {
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "median_MAPE": 12.410793022992,
+    "mean_MAPE": 13.091395058877,
+    "median_MAE": 37.126629269214,
+    "median_RMSE": 47.830713417266
+  },
+  {
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "O",
+    "median_MAPE": 17.608281113999,
+    "mean_MAPE": 18.66438991329,
+    "median_MAE": 47.852453646473,
+    "median_RMSE": 54.956826737317
+  },
+  {
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "median_MAPE": 12.410793022992,
+    "mean_MAPE": 13.091395058877,
+    "median_MAE": 37.126629269214,
+    "median_RMSE": 47.830713417266
+  },
+  {
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "O",
+    "median_MAPE": 17.608281113999,
+    "mean_MAPE": 18.66438991329,
+    "median_MAE": 47.852453646473,
+    "median_RMSE": 54.956826737317
+  },
+  {
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "median_MAPE": 12.410793022992,
+    "mean_MAPE": 13.091395058877,
+    "median_MAE": 37.126629269214,
+    "median_RMSE": 47.830713417266
+  },
+  {
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "O",
+    "median_MAPE": 17.608281113999,
+    "mean_MAPE": 18.66438991329,
+    "median_MAE": 47.852453646473,
+    "median_RMSE": 54.956826737317
+  },
+  {
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "median_MAPE": 12.410793022992,
+    "mean_MAPE": 13.091395058877,
+    "median_MAE": 37.126629269214,
+    "median_RMSE": 47.830713417266
+  },
+  {
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "O",
+    "median_MAPE": 17.608281113999,
+    "mean_MAPE": 18.66438991329,
+    "median_MAE": 47.852453646473,
+    "median_RMSE": 54.956826737317
+  },
+  {
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "median_MAPE": 18.602403287755,
+    "mean_MAPE": 19.017102463242,
+    "median_MAE": 50.46064973838,
+    "median_RMSE": 59.325072781528
+  },
+  {
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 3,
+    "selection": "V",
+    "median_MAPE": 17.881551432624,
+    "mean_MAPE": 20.222547265049,
+    "median_MAE": 48.492978015781,
+    "median_RMSE": 57.440236171511
+  },
+  {
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "median_MAPE": 19.176315933595,
+    "mean_MAPE": 19.68870415056,
+    "median_MAE": 50.730330631067,
+    "median_RMSE": 61.176538043036
+  },
+  {
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 3,
+    "selection": "V",
+    "median_MAPE": 17.986421946869,
+    "mean_MAPE": 19.773072279572,
+    "median_MAE": 48.753247036665,
+    "median_RMSE": 58.878263673133
+  },
+  {
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "median_MAPE": 19.066112075927,
+    "mean_MAPE": 21.917291805367,
+    "median_MAE": 50.730330631067,
+    "median_RMSE": 60.900970970234
+  },
+  {
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 3,
+    "selection": "V",
+    "median_MAPE": 18.794700560465,
+    "mean_MAPE": 20.463526461581,
+    "median_MAE": 48.753247036665,
+    "median_RMSE": 59.589243397144
+  },
+  {
+    "method": "KNN",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "median_MAPE": 18.871630557769,
+    "mean_MAPE": 20.843855150233,
+    "median_MAE": 51.843955899033,
+    "median_RMSE": 65.312498255816
+  },
+  {
+    "method": "NNAR",
+    "windows": 2,
+    "spacing": 6,
+    "selection": "V",
+    "median_MAPE": 17.986421946869,
+    "mean_MAPE": 20.146156053054,
+    "median_MAE": 48.492978015781,
+    "median_RMSE": 57.440236171511
+  },
+  {
+    "method": "KNN",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "median_MAPE": 18.466999197884,
+    "mean_MAPE": 23.217859832832,
+    "median_MAE": 49.107262448548,
+    "median_RMSE": 60.631291656449
+  },
+  {
+    "method": "NNAR",
+    "windows": 3,
+    "spacing": 6,
+    "selection": "V",
+    "median_MAPE": 18.461144589716,
+    "mean_MAPE": 20.627829559443,
+    "median_MAE": 50.084467565404,
+    "median_RMSE": 59.499493843621
+  },
+  {
+    "method": "KNN",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "median_MAPE": 18.033978030066,
+    "mean_MAPE": 19.604846770149,
+    "median_MAE": 49.607439289015,
+    "median_RMSE": 59.75582534092
+  },
+  {
+    "method": "NNAR",
+    "windows": 4,
+    "spacing": 6,
+    "selection": "V",
+    "median_MAPE": 18.461144589716,
+    "mean_MAPE": 20.534407787929,
+    "median_MAE": 50.084338391144,
+    "median_RMSE": 59.499493843621
+  }
+]

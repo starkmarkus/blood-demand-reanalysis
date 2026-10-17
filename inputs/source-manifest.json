@@ -31,6 +31,46 @@
       "name": "Main_Script_IJF.r",
       "sha256": "1f5a359859c9c08968e4ddf1a880ca95804408aba72bd57b3a9b33ec3fe3f630",
       "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/Main_Script_IJF.r"
+    },
+    {
+      "name": "GRNN-lag-best-script.R",
+      "sha256": "7fe280ee943c029ca94df887e0eb2b2805c7d3fdef23159f16f7a68447d7c2b4",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/GRNN-lag-best-script.R"
+    },
+    {
+      "name": "ro-eval-GRNN-script.R",
+      "sha256": "86465c327098e568624a0490b591f1a3969ba1358144585cda539f93d08fde3c",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/ro-eval-GRNN-script.R"
+    },
+    {
+      "name": "ro-eval-MLP-script.R",
+      "sha256": "df8b6e5919699f2ea5952ee6ae9782e40684dff2c033eea93a47ea880a5e82fd",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/ro-eval-MLP-script.R"
+    },
+    {
+      "name": "ro-eval-ELM-script.R",
+      "sha256": "dff3902e1837881a6ac96d5d939d70d062cba11aec3cecd3b614c0c3e3230029",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/ro-eval-ELM-script.R"
+    },
+    {
+      "name": "rolling-eval-LSTM-script.R",
+      "sha256": "ee61267be1f525c90fed2bf7f5fda9292d6d4971dc0ea6dd3e7a34569a7d908d",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/rolling-eval-LSTM-script.R"
+    },
+    {
+      "name": "Lag-normalise-invert-scaling-script.R",
+      "sha256": "9f1ff788e5cd88b938fbca4104bdbbe28c7f7fb820873b96f8f65c5188ce3a13",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/Lag-normalise-invert-scaling-script.R"
+    },
+    {
+      "name": "rolling-eval-ARIMA-script.R",
+      "sha256": "621f69e76bb1549aca293ac8daa63695d4caf05698e76b0655dd674158e73cd5",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/rolling-eval-ARIMA-script.R"
+    },
+    {
+      "name": "Main_Script_IJF.html",
+      "sha256": "6b5e2d3104ad0967128fd9f13a9c79ad9987c052f29ea4f2605ab374d0a98629",
+      "url": "https://raw.githubusercontent.com/twumasiclement/TimeSeries-Forecasting/479461f4fa1591569d529579b58d0d4215dc2cf5/Main_Script_IJF.html"
     }
   ]
 }

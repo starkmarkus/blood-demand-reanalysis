@@ -1,0 +1,104 @@
+[
+  {
+    "origin": 75,
+    "selected_MIMO_lag": 4,
+    "recursive_oracle_lag": 3,
+    "point_delta": 0
+  },
+  {
+    "origin": 76,
+    "selected_MIMO_lag": 4,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 77,
+    "selected_MIMO_lag": 2,
+    "recursive_oracle_lag": 3,
+    "point_delta": 0
+  },
+  {
+    "origin": 78,
+    "selected_MIMO_lag": 1,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 79,
+    "selected_MIMO_lag": 1,
+    "recursive_oracle_lag": 3,
+    "point_delta": 0
+  },
+  {
+    "origin": 80,
+    "selected_MIMO_lag": 2,
+    "recursive_oracle_lag": 3,
+    "point_delta": 0
+  },
+  {
+    "origin": 81,
+    "selected_MIMO_lag": 1,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 82,
+    "selected_MIMO_lag": 1,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 83,
+    "selected_MIMO_lag": 2,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 84,
+    "selected_MIMO_lag": 3,
+    "recursive_oracle_lag": 3,
+    "point_delta": 0
+  },
+  {
+    "origin": 85,
+    "selected_MIMO_lag": 4,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 86,
+    "selected_MIMO_lag": 4,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 87,
+    "selected_MIMO_lag": 4,
+    "recursive_oracle_lag": 4,
+    "point_delta": 0
+  },
+  {
+    "origin": 88,
+    "selected_MIMO_lag": 1,
+    "recursive_oracle_lag": 1,
+    "point_delta": 0
+  },
+  {
+    "origin": 89,
+    "selected_MIMO_lag": 2,
+    "recursive_oracle_lag": 4,
+    "point_delta": 0
+  },
+  {
+    "origin": 90,
+    "selected_MIMO_lag": 3,
+    "recursive_oracle_lag": 4,
+    "point_delta": 0
+  },
+  {
+    "origin": 91,
+    "selected_MIMO_lag": 3,
+    "recursive_oracle_lag": 4,
+    "point_delta": 0
+  }
+]
